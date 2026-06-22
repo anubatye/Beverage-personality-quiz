@@ -1,0 +1,5122 @@
+{
+  "0-0-0-0-0": {
+    "Fanta": 0.952,
+    "Fuze Tea": 0.0474,
+    "Multifruit Juice": 0.0006
+  },
+  "0-0-0-0-1": {
+    "Fanta": 0.9993,
+    "Fuze Tea": 0.0007,
+    "Multifruit Juice": 0.0001
+  },
+  "0-0-0-0-2": {
+    "Fanta": 0.9701,
+    "Fuze Tea": 0.0293,
+    "Multifruit Juice": 0.0006
+  },
+  "0-0-0-0-3": {
+    "Fanta": 0.9835,
+    "Fuze Tea": 0.0056,
+    "Multifruit Juice": 0.0109
+  },
+  "0-0-0-1-0": {
+    "Fanta": 0.9995,
+    "Fuze Tea": 0.0005,
+    "Multifruit Juice": 0.0001
+  },
+  "0-0-0-1-1": {
+    "Fanta": 1.0,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.0
+  },
+  "0-0-0-1-2": {
+    "Fanta": 0.9997,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.0001
+  },
+  "0-0-0-1-3": {
+    "Fanta": 0.999,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.0009
+  },
+  "0-0-0-2-0": {
+    "Fanta": 0.9439,
+    "Fuze Tea": 0.0555,
+    "Multifruit Juice": 0.0006
+  },
+  "0-0-0-2-1": {
+    "Fanta": 0.9992,
+    "Fuze Tea": 0.0008,
+    "Multifruit Juice": 0.0001
+  },
+  "0-0-0-2-2": {
+    "Fanta": 0.9649,
+    "Fuze Tea": 0.0344,
+    "Multifruit Juice": 0.0006
+  },
+  "0-0-0-2-3": {
+    "Fanta": 0.9825,
+    "Fuze Tea": 0.0066,
+    "Multifruit Juice": 0.0109
+  },
+  "0-0-0-3-0": {
+    "Fanta": 0.9851,
+    "Fuze Tea": 0.0056,
+    "Multifruit Juice": 0.0093
+  },
+  "0-0-0-3-1": {
+    "Fanta": 0.9988,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.0011
+  },
+  "0-0-0-3-2": {
+    "Fanta": 0.9873,
+    "Fuze Tea": 0.0034,
+    "Multifruit Juice": 0.0093
+  },
+  "0-0-0-3-3": {
+    "Fanta": 0.8617,
+    "Fuze Tea": 0.0006,
+    "Multifruit Juice": 0.1378
+  },
+  "0-0-1-0-0": {
+    "Fanta": 0.2371,
+    "Fuze Tea": 0.7613,
+    "Multifruit Juice": 0.0016
+  },
+  "0-0-1-0-1": {
+    "Fanta": 0.9589,
+    "Fuze Tea": 0.0404,
+    "Multifruit Juice": 0.0007
+  },
+  "0-0-1-0-2": {
+    "Fanta": 0.3385,
+    "Fuze Tea": 0.6592,
+    "Multifruit Juice": 0.0023
+  },
+  "0-0-1-0-3": {
+    "Fanta": 0.6746,
+    "Fuze Tea": 0.2482,
+    "Multifruit Juice": 0.0773
+  },
+  "0-0-1-1-0": {
+    "Fanta": 0.9702,
+    "Fuze Tea": 0.0293,
+    "Multifruit Juice": 0.0005
+  },
+  "0-0-1-1-1": {
+    "Fanta": 0.9995,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.0001
+  },
+  "0-0-1-1-2": {
+    "Fanta": 0.9815,
+    "Fuze Tea": 0.018,
+    "Multifruit Juice": 0.0005
+  },
+  "0-0-1-1-3": {
+    "Fanta": 0.9873,
+    "Fuze Tea": 0.0034,
+    "Multifruit Juice": 0.0093
+  },
+  "0-0-1-2-0": {
+    "Fanta": 0.2083,
+    "Fuze Tea": 0.7903,
+    "Multifruit Juice": 0.0014
+  },
+  "0-0-1-2-1": {
+    "Fanta": 0.9519,
+    "Fuze Tea": 0.0474,
+    "Multifruit Juice": 0.0007
+  },
+  "0-0-1-2-2": {
+    "Fanta": 0.3023,
+    "Fuze Tea": 0.6956,
+    "Multifruit Juice": 0.002
+  },
+  "0-0-1-2-3": {
+    "Fanta": 0.6455,
+    "Fuze Tea": 0.2805,
+    "Multifruit Juice": 0.0739
+  },
+  "0-0-1-3-0": {
+    "Fanta": 0.6827,
+    "Fuze Tea": 0.2511,
+    "Multifruit Juice": 0.0662
+  },
+  "0-0-1-3-1": {
+    "Fanta": 0.9843,
+    "Fuze Tea": 0.0048,
+    "Multifruit Juice": 0.0109
+  },
+  "0-0-1-3-2": {
+    "Fanta": 0.7575,
+    "Fuze Tea": 0.169,
+    "Multifruit Juice": 0.0735
+  },
+  "0-0-1-3-3": {
+    "Fanta": 0.3716,
+    "Fuze Tea": 0.0157,
+    "Multifruit Juice": 0.6127
+  },
+  "0-0-2-0-0": {
+    "Fanta": 0.636,
+    "Fuze Tea": 0.3266,
+    "Multifruit Juice": 0.0374
+  },
+  "0-0-2-0-1": {
+    "Fanta": 0.9867,
+    "Fuze Tea": 0.0066,
+    "Multifruit Juice": 0.0066
+  },
+  "0-0-2-0-2": {
+    "Fanta": 0.7298,
+    "Fuze Tea": 0.2273,
+    "Multifruit Juice": 0.0429
+  },
+  "0-0-2-0-3": {
+    "Fanta": 0.4857,
+    "Fuze Tea": 0.0286,
+    "Multifruit Juice": 0.4857
+  },
+  "0-0-2-1-0": {
+    "Fanta": 0.9904,
+    "Fuze Tea": 0.0048,
+    "Multifruit Juice": 0.0048
+  },
+  "0-0-2-1-1": {
+    "Fanta": 0.9994,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.0006
+  },
+  "0-0-2-1-2": {
+    "Fanta": 0.9923,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.0048
+  },
+  "0-0-2-1-3": {
+    "Fanta": 0.9237,
+    "Fuze Tea": 0.0005,
+    "Multifruit Juice": 0.0758
+  },
+  "0-0-2-2-0": {
+    "Fanta": 0.6005,
+    "Fuze Tea": 0.3642,
+    "Multifruit Juice": 0.0353
+  },
+  "0-0-2-2-1": {
+    "Fanta": 0.9855,
+    "Fuze Tea": 0.0078,
+    "Multifruit Juice": 0.0066
+  },
+  "0-0-2-2-2": {
+    "Fanta": 0.7009,
+    "Fuze Tea": 0.2579,
+    "Multifruit Juice": 0.0412
+  },
+  "0-0-2-2-3": {
+    "Fanta": 0.4832,
+    "Fuze Tea": 0.0336,
+    "Multifruit Juice": 0.4832
+  },
+  "0-0-2-3-0": {
+    "Fanta": 0.5249,
+    "Fuze Tea": 0.0309,
+    "Multifruit Juice": 0.4443
+  },
+  "0-0-2-3-1": {
+    "Fanta": 0.911,
+    "Fuze Tea": 0.0007,
+    "Multifruit Juice": 0.0883
+  },
+  "0-0-2-3-2": {
+    "Fanta": 0.5313,
+    "Fuze Tea": 0.019,
+    "Multifruit Juice": 0.4497
+  },
+  "0-0-2-3-3": {
+    "Fanta": 0.0649,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.9346
+  },
+  "0-0-3-0-0": {
+    "Fanta": 0.621,
+    "Fuze Tea": 0.3188,
+    "Multifruit Juice": 0.0602
+  },
+  "0-0-3-0-1": {
+    "Fanta": 0.9825,
+    "Fuze Tea": 0.0066,
+    "Multifruit Juice": 0.0109
+  },
+  "0-0-3-0-2": {
+    "Fanta": 0.71,
+    "Fuze Tea": 0.2211,
+    "Multifruit Juice": 0.0689
+  },
+  "0-0-3-0-3": {
+    "Fanta": 0.3693,
+    "Fuze Tea": 0.0217,
+    "Multifruit Juice": 0.6089
+  },
+  "0-0-3-1-0": {
+    "Fanta": 0.9874,
+    "Fuze Tea": 0.0048,
+    "Multifruit Juice": 0.0079
+  },
+  "0-0-3-1-1": {
+    "Fanta": 0.999,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.0009
+  },
+  "0-0-3-1-2": {
+    "Fanta": 0.9892,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.0079
+  },
+  "0-0-3-1-3": {
+    "Fanta": 0.8804,
+    "Fuze Tea": 0.0005,
+    "Multifruit Juice": 0.1191
+  },
+  "0-0-3-2-0": {
+    "Fanta": 0.587,
+    "Fuze Tea": 0.356,
+    "Multifruit Juice": 0.0569
+  },
+  "0-0-3-2-1": {
+    "Fanta": 0.9813,
+    "Fuze Tea": 0.0078,
+    "Multifruit Juice": 0.0109
+  },
+  "0-0-3-2-2": {
+    "Fanta": 0.6827,
+    "Fuze Tea": 0.2511,
+    "Multifruit Juice": 0.0662
+  },
+  "0-0-3-2-3": {
+    "Fanta": 0.3679,
+    "Fuze Tea": 0.0256,
+    "Multifruit Juice": 0.6065
+  },
+  "0-0-3-3-0": {
+    "Fanta": 0.4074,
+    "Fuze Tea": 0.024,
+    "Multifruit Juice": 0.5686
+  },
+  "0-0-3-3-1": {
+    "Fanta": 0.8616,
+    "Fuze Tea": 0.0007,
+    "Multifruit Juice": 0.1377
+  },
+  "0-0-3-3-2": {
+    "Fanta": 0.4113,
+    "Fuze Tea": 0.0147,
+    "Multifruit Juice": 0.574
+  },
+  "0-0-3-3-3": {
+    "Fanta": 0.0404,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9593
+  },
+  "0-1-0-0-0": {
+    "Fanta": 0.6268,
+    "Fuze Tea": 0.3218,
+    "Multifruit Juice": 0.0514
+  },
+  "0-1-0-0-1": {
+    "Fanta": 0.9841,
+    "Fuze Tea": 0.0066,
+    "Multifruit Juice": 0.0093
+  },
+  "0-1-0-0-2": {
+    "Fanta": 0.7176,
+    "Fuze Tea": 0.2235,
+    "Multifruit Juice": 0.0589
+  },
+  "0-1-0-0-3": {
+    "Fanta": 0.4074,
+    "Fuze Tea": 0.024,
+    "Multifruit Juice": 0.5686
+  },
+  "0-1-0-1-0": {
+    "Fanta": 0.9886,
+    "Fuze Tea": 0.0048,
+    "Multifruit Juice": 0.0067
+  },
+  "0-1-0-1-1": {
+    "Fanta": 0.9992,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.0008
+  },
+  "0-1-0-1-2": {
+    "Fanta": 0.9904,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.0067
+  },
+  "0-1-0-1-3": {
+    "Fanta": 0.8968,
+    "Fuze Tea": 0.0005,
+    "Multifruit Juice": 0.1027
+  },
+  "0-1-0-2-0": {
+    "Fanta": 0.5922,
+    "Fuze Tea": 0.3592,
+    "Multifruit Juice": 0.0486
+  },
+  "0-1-0-2-1": {
+    "Fanta": 0.9829,
+    "Fuze Tea": 0.0078,
+    "Multifruit Juice": 0.0092
+  },
+  "0-1-0-2-2": {
+    "Fanta": 0.6897,
+    "Fuze Tea": 0.2537,
+    "Multifruit Juice": 0.0566
+  },
+  "0-1-0-2-3": {
+    "Fanta": 0.4057,
+    "Fuze Tea": 0.0282,
+    "Multifruit Juice": 0.5661
+  },
+  "0-1-0-3-0": {
+    "Fanta": 0.4464,
+    "Fuze Tea": 0.0263,
+    "Multifruit Juice": 0.5274
+  },
+  "0-1-0-3-1": {
+    "Fanta": 0.8802,
+    "Fuze Tea": 0.0007,
+    "Multifruit Juice": 0.1191
+  },
+  "0-1-0-3-2": {
+    "Fanta": 0.4511,
+    "Fuze Tea": 0.0161,
+    "Multifruit Juice": 0.5329
+  },
+  "0-1-0-3-3": {
+    "Fanta": 0.0474,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9523
+  },
+  "0-1-1-0-0": {
+    "Fanta": 0.0286,
+    "Fuze Tea": 0.9472,
+    "Multifruit Juice": 0.0242
+  },
+  "0-1-1-0-1": {
+    "Fanta": 0.6529,
+    "Fuze Tea": 0.2838,
+    "Multifruit Juice": 0.0633
+  },
+  "0-1-1-0-2": {
+    "Fanta": 0.0456,
+    "Fuze Tea": 0.9158,
+    "Multifruit Juice": 0.0386
+  },
+  "0-1-1-0-3": {
+    "Fanta": 0.0521,
+    "Fuze Tea": 0.1977,
+    "Multifruit Juice": 0.7501
+  },
+  "0-1-1-1-0": {
+    "Fanta": 0.7242,
+    "Fuze Tea": 0.2255,
+    "Multifruit Juice": 0.0503
+  },
+  "0-1-1-1-1": {
+    "Fanta": 0.9881,
+    "Fuze Tea": 0.004,
+    "Multifruit Juice": 0.0079
+  },
+  "0-1-1-1-2": {
+    "Fanta": 0.7947,
+    "Fuze Tea": 0.1501,
+    "Multifruit Juice": 0.0552
+  },
+  "0-1-1-1-3": {
+    "Fanta": 0.4511,
+    "Fuze Tea": 0.0161,
+    "Multifruit Juice": 0.5329
+  },
+  "0-1-1-2-0": {
+    "Fanta": 0.0244,
+    "Fuze Tea": 0.9549,
+    "Multifruit Juice": 0.0207
+  },
+  "0-1-1-2-1": {
+    "Fanta": 0.621,
+    "Fuze Tea": 0.3188,
+    "Multifruit Juice": 0.0602
+  },
+  "0-1-1-2-2": {
+    "Fanta": 0.0391,
+    "Fuze Tea": 0.9278,
+    "Multifruit Juice": 0.0331
+  },
+  "0-1-1-2-3": {
+    "Fanta": 0.0503,
+    "Fuze Tea": 0.2255,
+    "Multifruit Juice": 0.7242
+  },
+  "0-1-1-3-0": {
+    "Fanta": 0.0589,
+    "Fuze Tea": 0.2235,
+    "Multifruit Juice": 0.7176
+  },
+  "0-1-1-3-1": {
+    "Fanta": 0.4089,
+    "Fuze Tea": 0.0204,
+    "Multifruit Juice": 0.5707
+  },
+  "0-1-1-3-2": {
+    "Fanta": 0.0646,
+    "Fuze Tea": 0.1486,
+    "Multifruit Juice": 0.7868
+  },
+  "0-1-1-3-3": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0021,
+    "Multifruit Juice": 0.9931
+  },
+  "0-1-2-0-0": {
+    "Fanta": 0.0731,
+    "Fuze Tea": 0.3869,
+    "Multifruit Juice": 0.54
+  },
+  "0-1-2-0-1": {
+    "Fanta": 0.5219,
+    "Fuze Tea": 0.0363,
+    "Multifruit Juice": 0.4418
+  },
+  "0-1-2-0-2": {
+    "Fanta": 0.0862,
+    "Fuze Tea": 0.2768,
+    "Multifruit Juice": 0.637
+  },
+  "0-1-2-0-3": {
+    "Fanta": 0.0079,
+    "Fuze Tea": 0.0048,
+    "Multifruit Juice": 0.9874
+  },
+  "0-1-2-1-0": {
+    "Fanta": 0.6037,
+    "Fuze Tea": 0.0301,
+    "Multifruit Juice": 0.3662
+  },
+  "0-1-2-1-1": {
+    "Fanta": 0.9345,
+    "Fuze Tea": 0.0006,
+    "Multifruit Juice": 0.0649
+  },
+  "0-1-2-1-2": {
+    "Fanta": 0.611,
+    "Fuze Tea": 0.0184,
+    "Multifruit Juice": 0.3706
+  },
+  "0-1-2-1-3": {
+    "Fanta": 0.0884,
+    "Fuze Tea": 0.0005,
+    "Multifruit Juice": 0.9111
+  },
+  "0-1-2-2-0": {
+    "Fanta": 0.0683,
+    "Fuze Tea": 0.4271,
+    "Multifruit Juice": 0.5046
+  },
+  "0-1-2-2-1": {
+    "Fanta": 0.5185,
+    "Fuze Tea": 0.0426,
+    "Multifruit Juice": 0.4389
+  },
+  "0-1-2-2-2": {
+    "Fanta": 0.0821,
+    "Fuze Tea": 0.3114,
+    "Multifruit Juice": 0.6065
+  },
+  "0-1-2-2-3": {
+    "Fanta": 0.0079,
+    "Fuze Tea": 0.0056,
+    "Multifruit Juice": 0.9865
+  },
+  "0-1-2-3-0": {
+    "Fanta": 0.0093,
+    "Fuze Tea": 0.0056,
+    "Multifruit Juice": 0.9851
+  },
+  "0-1-2-3-1": {
+    "Fanta": 0.0758,
+    "Fuze Tea": 0.0006,
+    "Multifruit Juice": 0.9236
+  },
+  "0-1-2-3-2": {
+    "Fanta": 0.0093,
+    "Fuze Tea": 0.0034,
+    "Multifruit Juice": 0.9873
+  },
+  "0-1-2-3-3": {
+    "Fanta": 0.0006,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9994
+  },
+  "0-1-3-0-0": {
+    "Fanta": 0.0541,
+    "Fuze Tea": 0.2865,
+    "Multifruit Juice": 0.6593
+  },
+  "0-1-3-0-1": {
+    "Fanta": 0.4057,
+    "Fuze Tea": 0.0282,
+    "Multifruit Juice": 0.5661
+  },
+  "0-1-3-0-2": {
+    "Fanta": 0.061,
+    "Fuze Tea": 0.1959,
+    "Multifruit Juice": 0.7431
+  },
+  "0-1-3-0-3": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.9923
+  },
+  "0-1-3-1-0": {
+    "Fanta": 0.4879,
+    "Fuze Tea": 0.0243,
+    "Multifruit Juice": 0.4879
+  },
+  "0-1-3-1-1": {
+    "Fanta": 0.8967,
+    "Fuze Tea": 0.0006,
+    "Multifruit Juice": 0.1027
+  },
+  "0-1-3-1-2": {
+    "Fanta": 0.4926,
+    "Fuze Tea": 0.0149,
+    "Multifruit Juice": 0.4926
+  },
+  "0-1-3-1-3": {
+    "Fanta": 0.0555,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9442
+  },
+  "0-1-3-2-0": {
+    "Fanta": 0.0514,
+    "Fuze Tea": 0.3218,
+    "Multifruit Juice": 0.6268
+  },
+  "0-1-3-2-1": {
+    "Fanta": 0.4036,
+    "Fuze Tea": 0.0331,
+    "Multifruit Juice": 0.5633
+  },
+  "0-1-3-2-2": {
+    "Fanta": 0.0589,
+    "Fuze Tea": 0.2235,
+    "Multifruit Juice": 0.7176
+  },
+  "0-1-3-2-3": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0034,
+    "Multifruit Juice": 0.9918
+  },
+  "0-1-3-3-0": {
+    "Fanta": 0.0057,
+    "Fuze Tea": 0.0034,
+    "Multifruit Juice": 0.9909
+  },
+  "0-1-3-3-1": {
+    "Fanta": 0.0474,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.9522
+  },
+  "0-1-3-3-2": {
+    "Fanta": 0.0057,
+    "Fuze Tea": 0.0021,
+    "Multifruit Juice": 0.9923
+  },
+  "0-1-3-3-3": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9996
+  },
+  "0-2-0-0-0": {
+    "Fanta": 0.2371,
+    "Fuze Tea": 0.7613,
+    "Multifruit Juice": 0.0016
+  },
+  "0-2-0-0-1": {
+    "Fanta": 0.9589,
+    "Fuze Tea": 0.0404,
+    "Multifruit Juice": 0.0007
+  },
+  "0-2-0-0-2": {
+    "Fanta": 0.3385,
+    "Fuze Tea": 0.6592,
+    "Multifruit Juice": 0.0023
+  },
+  "0-2-0-0-3": {
+    "Fanta": 0.6746,
+    "Fuze Tea": 0.2482,
+    "Multifruit Juice": 0.0773
+  },
+  "0-2-0-1-0": {
+    "Fanta": 0.9702,
+    "Fuze Tea": 0.0293,
+    "Multifruit Juice": 0.0005
+  },
+  "0-2-0-1-1": {
+    "Fanta": 0.9995,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.0001
+  },
+  "0-2-0-1-2": {
+    "Fanta": 0.9815,
+    "Fuze Tea": 0.018,
+    "Multifruit Juice": 0.0005
+  },
+  "0-2-0-1-3": {
+    "Fanta": 0.9873,
+    "Fuze Tea": 0.0034,
+    "Multifruit Juice": 0.0093
+  },
+  "0-2-0-2-0": {
+    "Fanta": 0.2083,
+    "Fuze Tea": 0.7903,
+    "Multifruit Juice": 0.0014
+  },
+  "0-2-0-2-1": {
+    "Fanta": 0.9519,
+    "Fuze Tea": 0.0474,
+    "Multifruit Juice": 0.0007
+  },
+  "0-2-0-2-2": {
+    "Fanta": 0.3023,
+    "Fuze Tea": 0.6956,
+    "Multifruit Juice": 0.002
+  },
+  "0-2-0-2-3": {
+    "Fanta": 0.6455,
+    "Fuze Tea": 0.2805,
+    "Multifruit Juice": 0.0739
+  },
+  "0-2-0-3-0": {
+    "Fanta": 0.6827,
+    "Fuze Tea": 0.2511,
+    "Multifruit Juice": 0.0662
+  },
+  "0-2-0-3-1": {
+    "Fanta": 0.9843,
+    "Fuze Tea": 0.0048,
+    "Multifruit Juice": 0.0109
+  },
+  "0-2-0-3-2": {
+    "Fanta": 0.7575,
+    "Fuze Tea": 0.169,
+    "Multifruit Juice": 0.0735
+  },
+  "0-2-0-3-3": {
+    "Fanta": 0.3716,
+    "Fuze Tea": 0.0157,
+    "Multifruit Juice": 0.6127
+  },
+  "0-2-1-0-0": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.9949,
+    "Multifruit Juice": 0.0003
+  },
+  "0-2-1-0-1": {
+    "Fanta": 0.2684,
+    "Fuze Tea": 0.7295,
+    "Multifruit Juice": 0.0021
+  },
+  "0-2-1-0-2": {
+    "Fanta": 0.0079,
+    "Fuze Tea": 0.9916,
+    "Multifruit Juice": 0.0005
+  },
+  "0-2-1-0-3": {
+    "Fanta": 0.0386,
+    "Fuze Tea": 0.9158,
+    "Multifruit Juice": 0.0456
+  },
+  "0-2-1-1-0": {
+    "Fanta": 0.3386,
+    "Fuze Tea": 0.6595,
+    "Multifruit Juice": 0.0019
+  },
+  "0-2-1-1-1": {
+    "Fanta": 0.9745,
+    "Fuze Tea": 0.0249,
+    "Multifruit Juice": 0.0006
+  },
+  "0-2-1-1-2": {
+    "Fanta": 0.4572,
+    "Fuze Tea": 0.5402,
+    "Multifruit Juice": 0.0026
+  },
+  "0-2-1-1-3": {
+    "Fanta": 0.7575,
+    "Fuze Tea": 0.169,
+    "Multifruit Juice": 0.0735
+  },
+  "0-2-1-2-0": {
+    "Fanta": 0.0041,
+    "Fuze Tea": 0.9956,
+    "Multifruit Juice": 0.0003
+  },
+  "0-2-1-2-1": {
+    "Fanta": 0.237,
+    "Fuze Tea": 0.7611,
+    "Multifruit Juice": 0.0019
+  },
+  "0-2-1-2-2": {
+    "Fanta": 0.0067,
+    "Fuze Tea": 0.9928,
+    "Multifruit Juice": 0.0005
+  },
+  "0-2-1-2-3": {
+    "Fanta": 0.0331,
+    "Fuze Tea": 0.9278,
+    "Multifruit Juice": 0.0391
+  },
+  "0-2-1-3-0": {
+    "Fanta": 0.0389,
+    "Fuze Tea": 0.9223,
+    "Multifruit Juice": 0.0389
+  },
+  "0-2-1-3-1": {
+    "Fanta": 0.7013,
+    "Fuze Tea": 0.2184,
+    "Multifruit Juice": 0.0803
+  },
+  "0-2-1-3-2": {
+    "Fanta": 0.061,
+    "Fuze Tea": 0.878,
+    "Multifruit Juice": 0.061
+  },
+  "0-2-1-3-3": {
+    "Fanta": 0.0483,
+    "Fuze Tea": 0.1312,
+    "Multifruit Juice": 0.8205
+  },
+  "0-2-2-0-0": {
+    "Fanta": 0.0288,
+    "Fuze Tea": 0.9537,
+    "Multifruit Juice": 0.0175
+  },
+  "0-2-2-0-1": {
+    "Fanta": 0.6649,
+    "Fuze Tea": 0.2889,
+    "Multifruit Juice": 0.0462
+  },
+  "0-2-2-0-2": {
+    "Fanta": 0.0461,
+    "Fuze Tea": 0.9259,
+    "Multifruit Juice": 0.028
+  },
+  "0-2-2-0-3": {
+    "Fanta": 0.0662,
+    "Fuze Tea": 0.2511,
+    "Multifruit Juice": 0.6827
+  },
+  "0-2-2-1-0": {
+    "Fanta": 0.7347,
+    "Fuze Tea": 0.2288,
+    "Multifruit Juice": 0.0366
+  },
+  "0-2-2-1-1": {
+    "Fanta": 0.9903,
+    "Fuze Tea": 0.004,
+    "Multifruit Juice": 0.0056
+  },
+  "0-2-2-1-2": {
+    "Fanta": 0.8073,
+    "Fuze Tea": 0.1525,
+    "Multifruit Juice": 0.0402
+  },
+  "0-2-2-1-3": {
+    "Fanta": 0.5313,
+    "Fuze Tea": 0.019,
+    "Multifruit Juice": 0.4497
+  },
+  "0-2-2-2-0": {
+    "Fanta": 0.0246,
+    "Fuze Tea": 0.9606,
+    "Multifruit Juice": 0.0149
+  },
+  "0-2-2-2-1": {
+    "Fanta": 0.6318,
+    "Fuze Tea": 0.3244,
+    "Multifruit Juice": 0.0439
+  },
+  "0-2-2-2-2": {
+    "Fanta": 0.0395,
+    "Fuze Tea": 0.9366,
+    "Multifruit Juice": 0.0239
+  },
+  "0-2-2-2-3": {
+    "Fanta": 0.0633,
+    "Fuze Tea": 0.2838,
+    "Multifruit Juice": 0.6529
+  },
+  "0-2-2-3-0": {
+    "Fanta": 0.0739,
+    "Fuze Tea": 0.2805,
+    "Multifruit Juice": 0.6455
+  },
+  "0-2-2-3-1": {
+    "Fanta": 0.4879,
+    "Fuze Tea": 0.0243,
+    "Multifruit Juice": 0.4879
+  },
+  "0-2-2-3-2": {
+    "Fanta": 0.0831,
+    "Fuze Tea": 0.1913,
+    "Multifruit Juice": 0.7256
+  },
+  "0-2-2-3-3": {
+    "Fanta": 0.0067,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.9904
+  },
+  "0-2-3-0-0": {
+    "Fanta": 0.0285,
+    "Fuze Tea": 0.943,
+    "Multifruit Juice": 0.0285
+  },
+  "0-2-3-0-1": {
+    "Fanta": 0.6455,
+    "Fuze Tea": 0.2805,
+    "Multifruit Juice": 0.0739
+  },
+  "0-2-3-0-2": {
+    "Fanta": 0.0453,
+    "Fuze Tea": 0.9094,
+    "Multifruit Juice": 0.0453
+  },
+  "0-2-3-0-3": {
+    "Fanta": 0.0459,
+    "Fuze Tea": 0.1741,
+    "Multifruit Juice": 0.7801
+  },
+  "0-2-3-1-0": {
+    "Fanta": 0.7176,
+    "Fuze Tea": 0.2235,
+    "Multifruit Juice": 0.0589
+  },
+  "0-2-3-1-1": {
+    "Fanta": 0.9867,
+    "Fuze Tea": 0.004,
+    "Multifruit Juice": 0.0093
+  },
+  "0-2-3-1-2": {
+    "Fanta": 0.7868,
+    "Fuze Tea": 0.1486,
+    "Multifruit Juice": 0.0646
+  },
+  "0-2-3-1-3": {
+    "Fanta": 0.4113,
+    "Fuze Tea": 0.0147,
+    "Multifruit Juice": 0.574
+  },
+  "0-2-3-2-0": {
+    "Fanta": 0.0243,
+    "Fuze Tea": 0.9514,
+    "Multifruit Juice": 0.0243
+  },
+  "0-2-3-2-1": {
+    "Fanta": 0.6143,
+    "Fuze Tea": 0.3154,
+    "Multifruit Juice": 0.0704
+  },
+  "0-2-3-2-2": {
+    "Fanta": 0.0389,
+    "Fuze Tea": 0.9223,
+    "Multifruit Juice": 0.0389
+  },
+  "0-2-3-2-3": {
+    "Fanta": 0.0445,
+    "Fuze Tea": 0.1993,
+    "Multifruit Juice": 0.7562
+  },
+  "0-2-3-3-0": {
+    "Fanta": 0.0521,
+    "Fuze Tea": 0.1977,
+    "Multifruit Juice": 0.7501
+  },
+  "0-2-3-3-1": {
+    "Fanta": 0.3706,
+    "Fuze Tea": 0.0184,
+    "Multifruit Juice": 0.611
+  },
+  "0-2-3-3-2": {
+    "Fanta": 0.0565,
+    "Fuze Tea": 0.1301,
+    "Multifruit Juice": 0.8134
+  },
+  "0-2-3-3-3": {
+    "Fanta": 0.0041,
+    "Fuze Tea": 0.0018,
+    "Multifruit Juice": 0.9942
+  },
+  "0-3-0-0-0": {
+    "Fanta": 0.9342,
+    "Fuze Tea": 0.0649,
+    "Multifruit Juice": 0.0009
+  },
+  "0-3-0-0-1": {
+    "Fanta": 0.999,
+    "Fuze Tea": 0.0009,
+    "Multifruit Juice": 0.0001
+  },
+  "0-3-0-0-2": {
+    "Fanta": 0.9587,
+    "Fuze Tea": 0.0404,
+    "Multifruit Juice": 0.0009
+  },
+  "0-3-0-0-3": {
+    "Fanta": 0.9771,
+    "Fuze Tea": 0.0078,
+    "Multifruit Juice": 0.0151
+  },
+  "0-3-0-1-0": {
+    "Fanta": 0.9993,
+    "Fuze Tea": 0.0007,
+    "Multifruit Juice": 0.0001
+  },
+  "0-3-0-1-1": {
+    "Fanta": 1.0,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.0
+  },
+  "0-3-0-1-2": {
+    "Fanta": 0.9995,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.0001
+  },
+  "0-3-0-1-3": {
+    "Fanta": 0.9987,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.0013
+  },
+  "0-3-0-2-0": {
+    "Fanta": 0.9234,
+    "Fuze Tea": 0.0758,
+    "Multifruit Juice": 0.0008
+  },
+  "0-3-0-2-1": {
+    "Fanta": 0.9988,
+    "Fuze Tea": 0.0011,
+    "Multifruit Juice": 0.0001
+  },
+  "0-3-0-2-2": {
+    "Fanta": 0.9517,
+    "Fuze Tea": 0.0474,
+    "Multifruit Juice": 0.0009
+  },
+  "0-3-0-2-3": {
+    "Fanta": 0.9757,
+    "Fuze Tea": 0.0092,
+    "Multifruit Juice": 0.0151
+  },
+  "0-3-0-3-0": {
+    "Fanta": 0.9794,
+    "Fuze Tea": 0.0078,
+    "Multifruit Juice": 0.0129
+  },
+  "0-3-0-3-1": {
+    "Fanta": 0.9984,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.0015
+  },
+  "0-3-0-3-2": {
+    "Fanta": 0.9824,
+    "Fuze Tea": 0.0047,
+    "Multifruit Juice": 0.0129
+  },
+  "0-3-0-3-3": {
+    "Fanta": 0.817,
+    "Fuze Tea": 0.0007,
+    "Multifruit Juice": 0.1823
+  },
+  "0-3-1-0-0": {
+    "Fanta": 0.1821,
+    "Fuze Tea": 0.8162,
+    "Multifruit Juice": 0.0017
+  },
+  "0-3-1-0-1": {
+    "Fanta": 0.9435,
+    "Fuze Tea": 0.0555,
+    "Multifruit Juice": 0.001
+  },
+  "0-3-1-0-2": {
+    "Fanta": 0.2683,
+    "Fuze Tea": 0.7292,
+    "Multifruit Juice": 0.0025
+  },
+  "0-3-1-0-3": {
+    "Fanta": 0.5976,
+    "Fuze Tea": 0.3068,
+    "Multifruit Juice": 0.0955
+  },
+  "0-3-1-1-0": {
+    "Fanta": 0.9589,
+    "Fuze Tea": 0.0404,
+    "Multifruit Juice": 0.0007
+  },
+  "0-3-1-1-1": {
+    "Fanta": 0.9994,
+    "Fuze Tea": 0.0006,
+    "Multifruit Juice": 0.0001
+  },
+  "0-3-1-1-2": {
+    "Fanta": 0.9743,
+    "Fuze Tea": 0.0249,
+    "Multifruit Juice": 0.0008
+  },
+  "0-3-1-1-3": {
+    "Fanta": 0.9824,
+    "Fuze Tea": 0.0047,
+    "Multifruit Juice": 0.0129
+  },
+  "0-3-1-2-0": {
+    "Fanta": 0.1586,
+    "Fuze Tea": 0.8399,
+    "Multifruit Juice": 0.0015
+  },
+  "0-3-1-2-1": {
+    "Fanta": 0.9341,
+    "Fuze Tea": 0.0649,
+    "Multifruit Juice": 0.001
+  },
+  "0-3-1-2-2": {
+    "Fanta": 0.2369,
+    "Fuze Tea": 0.7608,
+    "Multifruit Juice": 0.0022
+  },
+  "0-3-1-2-3": {
+    "Fanta": 0.5661,
+    "Fuze Tea": 0.3434,
+    "Multifruit Juice": 0.0905
+  },
+  "0-3-1-3-0": {
+    "Fanta": 0.6065,
+    "Fuze Tea": 0.3114,
+    "Multifruit Juice": 0.0821
+  },
+  "0-3-1-3-1": {
+    "Fanta": 0.9782,
+    "Fuze Tea": 0.0066,
+    "Multifruit Juice": 0.0152
+  },
+  "0-3-1-3-2": {
+    "Fanta": 0.6912,
+    "Fuze Tea": 0.2152,
+    "Multifruit Juice": 0.0935
+  },
+  "0-3-1-3-3": {
+    "Fanta": 0.2976,
+    "Fuze Tea": 0.0175,
+    "Multifruit Juice": 0.6849
+  },
+  "0-3-2-0-0": {
+    "Fanta": 0.556,
+    "Fuze Tea": 0.3984,
+    "Multifruit Juice": 0.0456
+  },
+  "0-3-2-0-1": {
+    "Fanta": 0.9815,
+    "Fuze Tea": 0.0092,
+    "Multifruit Juice": 0.0092
+  },
+  "0-3-2-0-2": {
+    "Fanta": 0.6593,
+    "Fuze Tea": 0.2865,
+    "Multifruit Juice": 0.0541
+  },
+  "0-3-2-0-3": {
+    "Fanta": 0.4036,
+    "Fuze Tea": 0.0331,
+    "Multifruit Juice": 0.5633
+  },
+  "0-3-2-1-0": {
+    "Fanta": 0.9867,
+    "Fuze Tea": 0.0066,
+    "Multifruit Juice": 0.0066
+  },
+  "0-3-2-1-1": {
+    "Fanta": 0.9991,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.0008
+  },
+  "0-3-2-1-2": {
+    "Fanta": 0.9893,
+    "Fuze Tea": 0.004,
+    "Multifruit Juice": 0.0067
+  },
+  "0-3-2-1-3": {
+    "Fanta": 0.8966,
+    "Fuze Tea": 0.0007,
+    "Multifruit Juice": 0.1027
+  },
+  "0-3-2-2-0": {
+    "Fanta": 0.5185,
+    "Fuze Tea": 0.4389,
+    "Multifruit Juice": 0.0426
+  },
+  "0-3-2-2-1": {
+    "Fanta": 0.9799,
+    "Fuze Tea": 0.0109,
+    "Multifruit Juice": 0.0092
+  },
+  "0-3-2-2-2": {
+    "Fanta": 0.6268,
+    "Fuze Tea": 0.3218,
+    "Multifruit Juice": 0.0514
+  },
+  "0-3-2-2-3": {
+    "Fanta": 0.4012,
+    "Fuze Tea": 0.0389,
+    "Multifruit Juice": 0.5599
+  },
+  "0-3-2-3-0": {
+    "Fanta": 0.4418,
+    "Fuze Tea": 0.0363,
+    "Multifruit Juice": 0.5219
+  },
+  "0-3-2-3-1": {
+    "Fanta": 0.88,
+    "Fuze Tea": 0.0009,
+    "Multifruit Juice": 0.1191
+  },
+  "0-3-2-3-2": {
+    "Fanta": 0.4482,
+    "Fuze Tea": 0.0223,
+    "Multifruit Juice": 0.5295
+  },
+  "0-3-2-3-3": {
+    "Fanta": 0.0474,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.9521
+  },
+  "0-3-3-0-0": {
+    "Fanta": 0.54,
+    "Fuze Tea": 0.3869,
+    "Multifruit Juice": 0.0731
+  },
+  "0-3-3-0-1": {
+    "Fanta": 0.9757,
+    "Fuze Tea": 0.0092,
+    "Multifruit Juice": 0.0151
+  },
+  "0-3-3-0-2": {
+    "Fanta": 0.637,
+    "Fuze Tea": 0.2768,
+    "Multifruit Juice": 0.0862
+  },
+  "0-3-3-0-3": {
+    "Fanta": 0.2956,
+    "Fuze Tea": 0.0243,
+    "Multifruit Juice": 0.6801
+  },
+  "0-3-3-1-0": {
+    "Fanta": 0.9825,
+    "Fuze Tea": 0.0066,
+    "Multifruit Juice": 0.0109
+  },
+  "0-3-3-1-1": {
+    "Fanta": 0.9986,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.0013
+  },
+  "0-3-3-1-2": {
+    "Fanta": 0.985,
+    "Fuze Tea": 0.004,
+    "Multifruit Juice": 0.0109
+  },
+  "0-3-3-1-3": {
+    "Fanta": 0.8406,
+    "Fuze Tea": 0.0006,
+    "Multifruit Juice": 0.1588
+  },
+  "0-3-3-2-0": {
+    "Fanta": 0.5046,
+    "Fuze Tea": 0.4271,
+    "Multifruit Juice": 0.0683
+  },
+  "0-3-3-2-1": {
+    "Fanta": 0.9741,
+    "Fuze Tea": 0.0108,
+    "Multifruit Juice": 0.0151
+  },
+  "0-3-3-2-2": {
+    "Fanta": 0.6065,
+    "Fuze Tea": 0.3114,
+    "Multifruit Juice": 0.0821
+  },
+  "0-3-3-2-3": {
+    "Fanta": 0.2943,
+    "Fuze Tea": 0.0285,
+    "Multifruit Juice": 0.6772
+  },
+  "0-3-3-3-0": {
+    "Fanta": 0.3301,
+    "Fuze Tea": 0.0271,
+    "Multifruit Juice": 0.6429
+  },
+  "0-3-3-3-1": {
+    "Fanta": 0.8169,
+    "Fuze Tea": 0.0009,
+    "Multifruit Juice": 0.1823
+  },
+  "0-3-3-3-2": {
+    "Fanta": 0.3336,
+    "Fuze Tea": 0.0166,
+    "Multifruit Juice": 0.6498
+  },
+  "0-3-3-3-3": {
+    "Fanta": 0.0293,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9704
+  },
+  "1-0-0-0-0": {
+    "Fanta": 0.1586,
+    "Fuze Tea": 0.8399,
+    "Multifruit Juice": 0.0015
+  },
+  "1-0-0-0-1": {
+    "Fanta": 0.9341,
+    "Fuze Tea": 0.0649,
+    "Multifruit Juice": 0.001
+  },
+  "1-0-0-0-2": {
+    "Fanta": 0.2369,
+    "Fuze Tea": 0.7608,
+    "Multifruit Juice": 0.0022
+  },
+  "1-0-0-0-3": {
+    "Fanta": 0.5661,
+    "Fuze Tea": 0.3434,
+    "Multifruit Juice": 0.0905
+  },
+  "1-0-0-1-0": {
+    "Fanta": 0.9519,
+    "Fuze Tea": 0.0474,
+    "Multifruit Juice": 0.0007
+  },
+  "1-0-0-1-1": {
+    "Fanta": 0.9993,
+    "Fuze Tea": 0.0007,
+    "Multifruit Juice": 0.0001
+  },
+  "1-0-0-1-2": {
+    "Fanta": 0.97,
+    "Fuze Tea": 0.0293,
+    "Multifruit Juice": 0.0007
+  },
+  "1-0-0-1-3": {
+    "Fanta": 0.9815,
+    "Fuze Tea": 0.0056,
+    "Multifruit Juice": 0.0129
+  },
+  "1-0-0-2-0": {
+    "Fanta": 0.1377,
+    "Fuze Tea": 0.861,
+    "Multifruit Juice": 0.0013
+  },
+  "1-0-0-2-1": {
+    "Fanta": 0.9232,
+    "Fuze Tea": 0.0758,
+    "Multifruit Juice": 0.001
+  },
+  "1-0-0-2-2": {
+    "Fanta": 0.2082,
+    "Fuze Tea": 0.7898,
+    "Multifruit Juice": 0.002
+  },
+  "1-0-0-2-3": {
+    "Fanta": 0.5329,
+    "Fuze Tea": 0.3819,
+    "Multifruit Juice": 0.0852
+  },
+  "1-0-0-3-0": {
+    "Fanta": 0.5741,
+    "Fuze Tea": 0.3482,
+    "Multifruit Juice": 0.0777
+  },
+  "1-0-0-3-1": {
+    "Fanta": 0.9771,
+    "Fuze Tea": 0.0078,
+    "Multifruit Juice": 0.0151
+  },
+  "1-0-0-3-2": {
+    "Fanta": 0.6652,
+    "Fuze Tea": 0.2447,
+    "Multifruit Juice": 0.09
+  },
+  "1-0-0-3-3": {
+    "Fanta": 0.2967,
+    "Fuze Tea": 0.0206,
+    "Multifruit Juice": 0.6827
+  },
+  "1-0-1-0-0": {
+    "Fanta": 0.0029,
+    "Fuze Tea": 0.9968,
+    "Multifruit Juice": 0.0003
+  },
+  "1-0-1-0-1": {
+    "Fanta": 0.1821,
+    "Fuze Tea": 0.8159,
+    "Multifruit Juice": 0.002
+  },
+  "1-0-1-0-2": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.9947,
+    "Multifruit Juice": 0.0005
+  },
+  "1-0-1-0-3": {
+    "Fanta": 0.0239,
+    "Fuze Tea": 0.9366,
+    "Multifruit Juice": 0.0395
+  },
+  "1-0-1-1-0": {
+    "Fanta": 0.237,
+    "Fuze Tea": 0.7611,
+    "Multifruit Juice": 0.0019
+  },
+  "1-0-1-1-1": {
+    "Fanta": 0.9587,
+    "Fuze Tea": 0.0404,
+    "Multifruit Juice": 0.0009
+  },
+  "1-0-1-1-2": {
+    "Fanta": 0.3383,
+    "Fuze Tea": 0.659,
+    "Multifruit Juice": 0.0027
+  },
+  "1-0-1-1-3": {
+    "Fanta": 0.6652,
+    "Fuze Tea": 0.2447,
+    "Multifruit Juice": 0.09
+  },
+  "1-0-1-2-0": {
+    "Fanta": 0.0025,
+    "Fuze Tea": 0.9973,
+    "Multifruit Juice": 0.0002
+  },
+  "1-0-1-2-1": {
+    "Fanta": 0.1586,
+    "Fuze Tea": 0.8396,
+    "Multifruit Juice": 0.0018
+  },
+  "1-0-1-2-2": {
+    "Fanta": 0.0041,
+    "Fuze Tea": 0.9955,
+    "Multifruit Juice": 0.0004
+  },
+  "1-0-1-2-3": {
+    "Fanta": 0.0205,
+    "Fuze Tea": 0.9458,
+    "Multifruit Juice": 0.0337
+  },
+  "1-0-1-3-0": {
+    "Fanta": 0.0241,
+    "Fuze Tea": 0.9423,
+    "Multifruit Juice": 0.0336
+  },
+  "1-0-1-3-1": {
+    "Fanta": 0.5976,
+    "Fuze Tea": 0.3068,
+    "Multifruit Juice": 0.0955
+  },
+  "1-0-1-3-2": {
+    "Fanta": 0.0383,
+    "Fuze Tea": 0.9083,
+    "Multifruit Juice": 0.0534
+  },
+  "1-0-1-3-3": {
+    "Fanta": 0.0342,
+    "Fuze Tea": 0.1534,
+    "Multifruit Juice": 0.8123
+  },
+  "1-0-2-0-0": {
+    "Fanta": 0.0177,
+    "Fuze Tea": 0.9673,
+    "Multifruit Juice": 0.015
+  },
+  "1-0-2-0-1": {
+    "Fanta": 0.5514,
+    "Fuze Tea": 0.3951,
+    "Multifruit Juice": 0.0535
+  },
+  "1-0-2-0-2": {
+    "Fanta": 0.0286,
+    "Fuze Tea": 0.9472,
+    "Multifruit Juice": 0.0242
+  },
+  "1-0-2-0-3": {
+    "Fanta": 0.0462,
+    "Fuze Tea": 0.2889,
+    "Multifruit Juice": 0.6649
+  },
+  "1-0-2-1-0": {
+    "Fanta": 0.6318,
+    "Fuze Tea": 0.3244,
+    "Multifruit Juice": 0.0439
+  },
+  "1-0-2-1-1": {
+    "Fanta": 0.9855,
+    "Fuze Tea": 0.0066,
+    "Multifruit Juice": 0.0078
+  },
+  "1-0-2-1-2": {
+    "Fanta": 0.7242,
+    "Fuze Tea": 0.2255,
+    "Multifruit Juice": 0.0503
+  },
+  "1-0-2-1-3": {
+    "Fanta": 0.4464,
+    "Fuze Tea": 0.0263,
+    "Multifruit Juice": 0.5274
+  },
+  "1-0-2-2-0": {
+    "Fanta": 0.0151,
+    "Fuze Tea": 0.9722,
+    "Multifruit Juice": 0.0128
+  },
+  "1-0-2-2-1": {
+    "Fanta": 0.5145,
+    "Fuze Tea": 0.4356,
+    "Multifruit Juice": 0.0499
+  },
+  "1-0-2-2-2": {
+    "Fanta": 0.0244,
+    "Fuze Tea": 0.9549,
+    "Multifruit Juice": 0.0207
+  },
+  "1-0-2-2-3": {
+    "Fanta": 0.0439,
+    "Fuze Tea": 0.3244,
+    "Multifruit Juice": 0.6318
+  },
+  "1-0-2-3-0": {
+    "Fanta": 0.0514,
+    "Fuze Tea": 0.3218,
+    "Multifruit Juice": 0.6268
+  },
+  "1-0-2-3-1": {
+    "Fanta": 0.4036,
+    "Fuze Tea": 0.0331,
+    "Multifruit Juice": 0.5633
+  },
+  "1-0-2-3-2": {
+    "Fanta": 0.0589,
+    "Fuze Tea": 0.2235,
+    "Multifruit Juice": 0.7176
+  },
+  "1-0-2-3-3": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0034,
+    "Multifruit Juice": 0.9918
+  },
+  "1-0-3-0-0": {
+    "Fanta": 0.0175,
+    "Fuze Tea": 0.958,
+    "Multifruit Juice": 0.0245
+  },
+  "1-0-3-0-1": {
+    "Fanta": 0.5329,
+    "Fuze Tea": 0.3819,
+    "Multifruit Juice": 0.0852
+  },
+  "1-0-3-0-2": {
+    "Fanta": 0.0282,
+    "Fuze Tea": 0.9325,
+    "Multifruit Juice": 0.0393
+  },
+  "1-0-3-0-3": {
+    "Fanta": 0.0323,
+    "Fuze Tea": 0.2019,
+    "Multifruit Juice": 0.7658
+  },
+  "1-0-3-1-0": {
+    "Fanta": 0.6143,
+    "Fuze Tea": 0.3154,
+    "Multifruit Juice": 0.0704
+  },
+  "1-0-3-1-1": {
+    "Fanta": 0.9805,
+    "Fuze Tea": 0.0066,
+    "Multifruit Juice": 0.0129
+  },
+  "1-0-3-1-2": {
+    "Fanta": 0.7013,
+    "Fuze Tea": 0.2184,
+    "Multifruit Juice": 0.0803
+  },
+  "1-0-3-1-3": {
+    "Fanta": 0.3326,
+    "Fuze Tea": 0.0196,
+    "Multifruit Juice": 0.6478
+  },
+  "1-0-3-2-0": {
+    "Fanta": 0.0149,
+    "Fuze Tea": 0.9642,
+    "Multifruit Juice": 0.0209
+  },
+  "1-0-3-2-1": {
+    "Fanta": 0.4984,
+    "Fuze Tea": 0.4219,
+    "Multifruit Juice": 0.0797
+  },
+  "1-0-3-2-2": {
+    "Fanta": 0.0241,
+    "Fuze Tea": 0.9423,
+    "Multifruit Juice": 0.0336
+  },
+  "1-0-3-2-3": {
+    "Fanta": 0.0311,
+    "Fuze Tea": 0.2301,
+    "Multifruit Juice": 0.7388
+  },
+  "1-0-3-3-0": {
+    "Fanta": 0.0366,
+    "Fuze Tea": 0.2288,
+    "Multifruit Juice": 0.7347
+  },
+  "1-0-3-3-1": {
+    "Fanta": 0.2956,
+    "Fuze Tea": 0.0243,
+    "Multifruit Juice": 0.6801
+  },
+  "1-0-3-3-2": {
+    "Fanta": 0.0402,
+    "Fuze Tea": 0.1525,
+    "Multifruit Juice": 0.8073
+  },
+  "1-0-3-3-3": {
+    "Fanta": 0.0029,
+    "Fuze Tea": 0.0021,
+    "Multifruit Juice": 0.995
+  },
+  "1-1-0-0-0": {
+    "Fanta": 0.0176,
+    "Fuze Tea": 0.9616,
+    "Multifruit Juice": 0.0208
+  },
+  "1-1-0-0-1": {
+    "Fanta": 0.54,
+    "Fuze Tea": 0.3869,
+    "Multifruit Juice": 0.0731
+  },
+  "1-1-0-0-2": {
+    "Fanta": 0.0283,
+    "Fuze Tea": 0.9382,
+    "Multifruit Juice": 0.0335
+  },
+  "1-1-0-0-3": {
+    "Fanta": 0.0366,
+    "Fuze Tea": 0.2288,
+    "Multifruit Juice": 0.7347
+  },
+  "1-1-0-1-0": {
+    "Fanta": 0.621,
+    "Fuze Tea": 0.3188,
+    "Multifruit Juice": 0.0602
+  },
+  "1-1-0-1-1": {
+    "Fanta": 0.9825,
+    "Fuze Tea": 0.0066,
+    "Multifruit Juice": 0.0109
+  },
+  "1-1-0-1-2": {
+    "Fanta": 0.71,
+    "Fuze Tea": 0.2211,
+    "Multifruit Juice": 0.0689
+  },
+  "1-1-0-1-3": {
+    "Fanta": 0.3693,
+    "Fuze Tea": 0.0217,
+    "Multifruit Juice": 0.6089
+  },
+  "1-1-0-2-0": {
+    "Fanta": 0.015,
+    "Fuze Tea": 0.9673,
+    "Multifruit Juice": 0.0177
+  },
+  "1-1-0-2-1": {
+    "Fanta": 0.5046,
+    "Fuze Tea": 0.4271,
+    "Multifruit Juice": 0.0683
+  },
+  "1-1-0-2-2": {
+    "Fanta": 0.0242,
+    "Fuze Tea": 0.9472,
+    "Multifruit Juice": 0.0286
+  },
+  "1-1-0-2-3": {
+    "Fanta": 0.0351,
+    "Fuze Tea": 0.2595,
+    "Multifruit Juice": 0.7054
+  },
+  "1-1-0-3-0": {
+    "Fanta": 0.0412,
+    "Fuze Tea": 0.2579,
+    "Multifruit Juice": 0.7009
+  },
+  "1-1-0-3-1": {
+    "Fanta": 0.3301,
+    "Fuze Tea": 0.0271,
+    "Multifruit Juice": 0.6429
+  },
+  "1-1-0-3-2": {
+    "Fanta": 0.0459,
+    "Fuze Tea": 0.1741,
+    "Multifruit Juice": 0.7801
+  },
+  "1-1-0-3-3": {
+    "Fanta": 0.0034,
+    "Fuze Tea": 0.0025,
+    "Multifruit Juice": 0.9941
+  },
+  "1-1-1-0-0": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.9963,
+    "Multifruit Juice": 0.0034
+  },
+  "1-1-1-0-1": {
+    "Fanta": 0.0206,
+    "Fuze Tea": 0.9507,
+    "Multifruit Juice": 0.0287
+  },
+  "1-1-1-0-2": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.9939,
+    "Multifruit Juice": 0.0057
+  },
+  "1-1-1-0-3": {
+    "Fanta": 0.0016,
+    "Fuze Tea": 0.6597,
+    "Multifruit Juice": 0.3387
+  },
+  "1-1-1-1-0": {
+    "Fanta": 0.0285,
+    "Fuze Tea": 0.943,
+    "Multifruit Juice": 0.0285
+  },
+  "1-1-1-1-1": {
+    "Fanta": 0.6455,
+    "Fuze Tea": 0.2805,
+    "Multifruit Juice": 0.0739
+  },
+  "1-1-1-1-2": {
+    "Fanta": 0.0453,
+    "Fuze Tea": 0.9094,
+    "Multifruit Juice": 0.0453
+  },
+  "1-1-1-1-3": {
+    "Fanta": 0.0459,
+    "Fuze Tea": 0.1741,
+    "Multifruit Juice": 0.7801
+  },
+  "1-1-1-2-0": {
+    "Fanta": 0.0002,
+    "Fuze Tea": 0.9968,
+    "Multifruit Juice": 0.0029
+  },
+  "1-1-1-2-1": {
+    "Fanta": 0.0175,
+    "Fuze Tea": 0.958,
+    "Multifruit Juice": 0.0245
+  },
+  "1-1-1-2-2": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.9948,
+    "Multifruit Juice": 0.0048
+  },
+  "1-1-1-2-3": {
+    "Fanta": 0.0015,
+    "Fuze Tea": 0.696,
+    "Multifruit Juice": 0.3025
+  },
+  "1-1-1-3-0": {
+    "Fanta": 0.0017,
+    "Fuze Tea": 0.6959,
+    "Multifruit Juice": 0.3024
+  },
+  "1-1-1-3-1": {
+    "Fanta": 0.0379,
+    "Fuze Tea": 0.2007,
+    "Multifruit Juice": 0.7614
+  },
+  "1-1-1-3-2": {
+    "Fanta": 0.0024,
+    "Fuze Tea": 0.5812,
+    "Multifruit Juice": 0.4164
+  },
+  "1-1-1-3-3": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.0153,
+    "Multifruit Juice": 0.9844
+  },
+  "1-1-2-0-0": {
+    "Fanta": 0.0015,
+    "Fuze Tea": 0.8399,
+    "Multifruit Juice": 0.1586
+  },
+  "1-1-2-0-1": {
+    "Fanta": 0.0486,
+    "Fuze Tea": 0.3592,
+    "Multifruit Juice": 0.5922
+  },
+  "1-1-2-0-2": {
+    "Fanta": 0.0022,
+    "Fuze Tea": 0.7608,
+    "Multifruit Juice": 0.2369
+  },
+  "1-1-2-0-3": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.0344,
+    "Multifruit Juice": 0.965
+  },
+  "1-1-2-1-0": {
+    "Fanta": 0.0666,
+    "Fuze Tea": 0.3524,
+    "Multifruit Juice": 0.581
+  },
+  "1-1-2-1-1": {
+    "Fanta": 0.4832,
+    "Fuze Tea": 0.0336,
+    "Multifruit Juice": 0.4832
+  },
+  "1-1-2-1-2": {
+    "Fanta": 0.0773,
+    "Fuze Tea": 0.2482,
+    "Multifruit Juice": 0.6746
+  },
+  "1-1-2-1-3": {
+    "Fanta": 0.0067,
+    "Fuze Tea": 0.004,
+    "Multifruit Juice": 0.9893
+  },
+  "1-1-2-2-0": {
+    "Fanta": 0.0013,
+    "Fuze Tea": 0.861,
+    "Multifruit Juice": 0.1377
+  },
+  "1-1-2-2-1": {
+    "Fanta": 0.0456,
+    "Fuze Tea": 0.3984,
+    "Multifruit Juice": 0.556
+  },
+  "1-1-2-2-2": {
+    "Fanta": 0.002,
+    "Fuze Tea": 0.7898,
+    "Multifruit Juice": 0.2082
+  },
+  "1-1-2-2-3": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.0404,
+    "Multifruit Juice": 0.9591
+  },
+  "1-1-2-3-0": {
+    "Fanta": 0.0006,
+    "Fuze Tea": 0.0404,
+    "Multifruit Juice": 0.959
+  },
+  "1-1-2-3-1": {
+    "Fanta": 0.0056,
+    "Fuze Tea": 0.0048,
+    "Multifruit Juice": 0.9896
+  },
+  "1-1-2-3-2": {
+    "Fanta": 0.0006,
+    "Fuze Tea": 0.0249,
+    "Multifruit Juice": 0.9745
+  },
+  "1-1-2-3-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9997
+  },
+  "1-1-3-0-0": {
+    "Fanta": 0.0014,
+    "Fuze Tea": 0.7615,
+    "Multifruit Juice": 0.2371
+  },
+  "1-1-3-0-1": {
+    "Fanta": 0.0351,
+    "Fuze Tea": 0.2595,
+    "Multifruit Juice": 0.7054
+  },
+  "1-1-3-0-2": {
+    "Fanta": 0.0019,
+    "Fuze Tea": 0.6595,
+    "Multifruit Juice": 0.3386
+  },
+  "1-1-3-0-3": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.0212,
+    "Multifruit Juice": 0.9785
+  },
+  "1-1-3-1-0": {
+    "Fanta": 0.0483,
+    "Fuze Tea": 0.2559,
+    "Multifruit Juice": 0.6957
+  },
+  "1-1-3-1-1": {
+    "Fanta": 0.3679,
+    "Fuze Tea": 0.0256,
+    "Multifruit Juice": 0.6065
+  },
+  "1-1-3-1-2": {
+    "Fanta": 0.0538,
+    "Fuze Tea": 0.1726,
+    "Multifruit Juice": 0.7736
+  },
+  "1-1-3-1-3": {
+    "Fanta": 0.0041,
+    "Fuze Tea": 0.0025,
+    "Multifruit Juice": 0.9935
+  },
+  "1-1-3-2-0": {
+    "Fanta": 0.0012,
+    "Fuze Tea": 0.7905,
+    "Multifruit Juice": 0.2084
+  },
+  "1-1-3-2-1": {
+    "Fanta": 0.0335,
+    "Fuze Tea": 0.2928,
+    "Multifruit Juice": 0.6737
+  },
+  "1-1-3-2-2": {
+    "Fanta": 0.0017,
+    "Fuze Tea": 0.6959,
+    "Multifruit Juice": 0.3024
+  },
+  "1-1-3-2-3": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.0249,
+    "Multifruit Juice": 0.9748
+  },
+  "1-1-3-3-0": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.0249,
+    "Multifruit Juice": 0.9747
+  },
+  "1-1-3-3-1": {
+    "Fanta": 0.0034,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.9937
+  },
+  "1-1-3-3-2": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.0153,
+    "Multifruit Juice": 0.9843
+  },
+  "1-1-3-3-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0002,
+    "Multifruit Juice": 0.9998
+  },
+  "1-2-0-0-0": {
+    "Fanta": 0.0029,
+    "Fuze Tea": 0.9968,
+    "Multifruit Juice": 0.0003
+  },
+  "1-2-0-0-1": {
+    "Fanta": 0.1821,
+    "Fuze Tea": 0.8159,
+    "Multifruit Juice": 0.002
+  },
+  "1-2-0-0-2": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.9947,
+    "Multifruit Juice": 0.0005
+  },
+  "1-2-0-0-3": {
+    "Fanta": 0.0239,
+    "Fuze Tea": 0.9366,
+    "Multifruit Juice": 0.0395
+  },
+  "1-2-0-1-0": {
+    "Fanta": 0.237,
+    "Fuze Tea": 0.7611,
+    "Multifruit Juice": 0.0019
+  },
+  "1-2-0-1-1": {
+    "Fanta": 0.9587,
+    "Fuze Tea": 0.0404,
+    "Multifruit Juice": 0.0009
+  },
+  "1-2-0-1-2": {
+    "Fanta": 0.3383,
+    "Fuze Tea": 0.659,
+    "Multifruit Juice": 0.0027
+  },
+  "1-2-0-1-3": {
+    "Fanta": 0.6652,
+    "Fuze Tea": 0.2447,
+    "Multifruit Juice": 0.09
+  },
+  "1-2-0-2-0": {
+    "Fanta": 0.0025,
+    "Fuze Tea": 0.9973,
+    "Multifruit Juice": 0.0002
+  },
+  "1-2-0-2-1": {
+    "Fanta": 0.1586,
+    "Fuze Tea": 0.8396,
+    "Multifruit Juice": 0.0018
+  },
+  "1-2-0-2-2": {
+    "Fanta": 0.0041,
+    "Fuze Tea": 0.9955,
+    "Multifruit Juice": 0.0004
+  },
+  "1-2-0-2-3": {
+    "Fanta": 0.0205,
+    "Fuze Tea": 0.9458,
+    "Multifruit Juice": 0.0337
+  },
+  "1-2-0-3-0": {
+    "Fanta": 0.0241,
+    "Fuze Tea": 0.9423,
+    "Multifruit Juice": 0.0336
+  },
+  "1-2-0-3-1": {
+    "Fanta": 0.5976,
+    "Fuze Tea": 0.3068,
+    "Multifruit Juice": 0.0955
+  },
+  "1-2-0-3-2": {
+    "Fanta": 0.0383,
+    "Fuze Tea": 0.9083,
+    "Multifruit Juice": 0.0534
+  },
+  "1-2-0-3-3": {
+    "Fanta": 0.0342,
+    "Fuze Tea": 0.1534,
+    "Multifruit Juice": 0.8123
+  },
+  "1-2-1-0-0": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.9999,
+    "Multifruit Juice": 0.0
+  },
+  "1-2-1-0-1": {
+    "Fanta": 0.0034,
+    "Fuze Tea": 0.9962,
+    "Multifruit Juice": 0.0004
+  },
+  "1-2-1-0-2": {
+    "Fanta": 0.0001,
+    "Fuze Tea": 0.9999,
+    "Multifruit Juice": 0.0001
+  },
+  "1-2-1-0-3": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.9929,
+    "Multifruit Juice": 0.0067
+  },
+  "1-2-1-1-0": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.9948,
+    "Multifruit Juice": 0.0004
+  },
+  "1-2-1-1-1": {
+    "Fanta": 0.2683,
+    "Fuze Tea": 0.7292,
+    "Multifruit Juice": 0.0025
+  },
+  "1-2-1-1-2": {
+    "Fanta": 0.0079,
+    "Fuze Tea": 0.9915,
+    "Multifruit Juice": 0.0006
+  },
+  "1-2-1-1-3": {
+    "Fanta": 0.0383,
+    "Fuze Tea": 0.9083,
+    "Multifruit Juice": 0.0534
+  },
+  "1-2-1-2-0": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.9999,
+    "Multifruit Juice": 0.0
+  },
+  "1-2-1-2-1": {
+    "Fanta": 0.0029,
+    "Fuze Tea": 0.9967,
+    "Multifruit Juice": 0.0003
+  },
+  "1-2-1-2-2": {
+    "Fanta": 0.0001,
+    "Fuze Tea": 0.9999,
+    "Multifruit Juice": 0.0001
+  },
+  "1-2-1-2-3": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.994,
+    "Multifruit Juice": 0.0057
+  },
+  "1-2-1-3-0": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.9939,
+    "Multifruit Juice": 0.0057
+  },
+  "1-2-1-3-1": {
+    "Fanta": 0.028,
+    "Fuze Tea": 0.9259,
+    "Multifruit Juice": 0.0461
+  },
+  "1-2-1-3-2": {
+    "Fanta": 0.0006,
+    "Fuze Tea": 0.99,
+    "Multifruit Juice": 0.0093
+  },
+  "1-2-1-3-3": {
+    "Fanta": 0.0019,
+    "Fuze Tea": 0.5406,
+    "Multifruit Juice": 0.4576
+  },
+  "1-2-2-0-0": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.9972,
+    "Multifruit Juice": 0.0025
+  },
+  "1-2-2-0-1": {
+    "Fanta": 0.0207,
+    "Fuze Tea": 0.9585,
+    "Multifruit Juice": 0.0207
+  },
+  "1-2-2-0-2": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.9955,
+    "Multifruit Juice": 0.0041
+  },
+  "1-2-2-0-3": {
+    "Fanta": 0.0018,
+    "Fuze Tea": 0.7297,
+    "Multifruit Juice": 0.2685
+  },
+  "1-2-2-1-0": {
+    "Fanta": 0.0287,
+    "Fuze Tea": 0.9507,
+    "Multifruit Juice": 0.0206
+  },
+  "1-2-2-1-1": {
+    "Fanta": 0.6593,
+    "Fuze Tea": 0.2865,
+    "Multifruit Juice": 0.0541
+  },
+  "1-2-2-1-2": {
+    "Fanta": 0.0459,
+    "Fuze Tea": 0.9213,
+    "Multifruit Juice": 0.0329
+  },
+  "1-2-2-1-3": {
+    "Fanta": 0.0589,
+    "Fuze Tea": 0.2235,
+    "Multifruit Juice": 0.7176
+  },
+  "1-2-2-2-0": {
+    "Fanta": 0.0002,
+    "Fuze Tea": 0.9977,
+    "Multifruit Juice": 0.0021
+  },
+  "1-2-2-2-1": {
+    "Fanta": 0.0177,
+    "Fuze Tea": 0.9647,
+    "Multifruit Juice": 0.0177
+  },
+  "1-2-2-2-2": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.9962,
+    "Multifruit Juice": 0.0034
+  },
+  "1-2-2-2-3": {
+    "Fanta": 0.0016,
+    "Fuze Tea": 0.7613,
+    "Multifruit Juice": 0.2371
+  },
+  "1-2-2-3-0": {
+    "Fanta": 0.0019,
+    "Fuze Tea": 0.7611,
+    "Multifruit Juice": 0.237
+  },
+  "1-2-2-3-1": {
+    "Fanta": 0.0483,
+    "Fuze Tea": 0.2559,
+    "Multifruit Juice": 0.6957
+  },
+  "1-2-2-3-2": {
+    "Fanta": 0.0027,
+    "Fuze Tea": 0.659,
+    "Multifruit Juice": 0.3383
+  },
+  "1-2-2-3-3": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.0212,
+    "Multifruit Juice": 0.9784
+  },
+  "1-2-3-0-0": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.9956,
+    "Multifruit Juice": 0.0041
+  },
+  "1-2-3-0-1": {
+    "Fanta": 0.0205,
+    "Fuze Tea": 0.9458,
+    "Multifruit Juice": 0.0337
+  },
+  "1-2-3-0-2": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.9928,
+    "Multifruit Juice": 0.0067
+  },
+  "1-2-3-0-3": {
+    "Fanta": 0.0015,
+    "Fuze Tea": 0.6215,
+    "Multifruit Juice": 0.377
+  },
+  "1-2-3-1-0": {
+    "Fanta": 0.0283,
+    "Fuze Tea": 0.9382,
+    "Multifruit Juice": 0.0335
+  },
+  "1-2-3-1-1": {
+    "Fanta": 0.637,
+    "Fuze Tea": 0.2768,
+    "Multifruit Juice": 0.0862
+  },
+  "1-2-3-1-2": {
+    "Fanta": 0.0449,
+    "Fuze Tea": 0.902,
+    "Multifruit Juice": 0.0531
+  },
+  "1-2-3-1-3": {
+    "Fanta": 0.0402,
+    "Fuze Tea": 0.1525,
+    "Multifruit Juice": 0.8073
+  },
+  "1-2-3-2-0": {
+    "Fanta": 0.0002,
+    "Fuze Tea": 0.9963,
+    "Multifruit Juice": 0.0034
+  },
+  "1-2-3-2-1": {
+    "Fanta": 0.0175,
+    "Fuze Tea": 0.9537,
+    "Multifruit Juice": 0.0288
+  },
+  "1-2-3-2-2": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.9939,
+    "Multifruit Juice": 0.0057
+  },
+  "1-2-3-2-3": {
+    "Fanta": 0.0014,
+    "Fuze Tea": 0.6598,
+    "Multifruit Juice": 0.3388
+  },
+  "1-2-3-3-0": {
+    "Fanta": 0.0016,
+    "Fuze Tea": 0.6597,
+    "Multifruit Juice": 0.3387
+  },
+  "1-2-3-3-1": {
+    "Fanta": 0.0333,
+    "Fuze Tea": 0.1763,
+    "Multifruit Juice": 0.7903
+  },
+  "1-2-3-3-2": {
+    "Fanta": 0.0022,
+    "Fuze Tea": 0.5404,
+    "Multifruit Juice": 0.4574
+  },
+  "1-2-3-3-3": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.013,
+    "Multifruit Juice": 0.9868
+  },
+  "1-3-0-0-0": {
+    "Fanta": 0.119,
+    "Fuze Tea": 0.8794,
+    "Multifruit Juice": 0.0016
+  },
+  "1-3-0-0-1": {
+    "Fanta": 0.9104,
+    "Fuze Tea": 0.0883,
+    "Multifruit Juice": 0.0014
+  },
+  "1-3-0-0-2": {
+    "Fanta": 0.182,
+    "Fuze Tea": 0.8156,
+    "Multifruit Juice": 0.0024
+  },
+  "1-3-0-0-3": {
+    "Fanta": 0.4832,
+    "Fuze Tea": 0.409,
+    "Multifruit Juice": 0.1078
+  },
+  "1-3-0-1-0": {
+    "Fanta": 0.9341,
+    "Fuze Tea": 0.0649,
+    "Multifruit Juice": 0.001
+  },
+  "1-3-0-1-1": {
+    "Fanta": 0.999,
+    "Fuze Tea": 0.0009,
+    "Multifruit Juice": 0.0001
+  },
+  "1-3-0-1-2": {
+    "Fanta": 0.9586,
+    "Fuze Tea": 0.0404,
+    "Multifruit Juice": 0.001
+  },
+  "1-3-0-1-3": {
+    "Fanta": 0.9744,
+    "Fuze Tea": 0.0078,
+    "Multifruit Juice": 0.0178
+  },
+  "1-3-0-2-0": {
+    "Fanta": 0.1026,
+    "Fuze Tea": 0.896,
+    "Multifruit Juice": 0.0013
+  },
+  "1-3-0-2-1": {
+    "Fanta": 0.896,
+    "Fuze Tea": 0.1026,
+    "Multifruit Juice": 0.0013
+  },
+  "1-3-0-2-2": {
+    "Fanta": 0.1585,
+    "Fuze Tea": 0.8394,
+    "Multifruit Juice": 0.0021
+  },
+  "1-3-0-2-3": {
+    "Fanta": 0.4498,
+    "Fuze Tea": 0.4498,
+    "Multifruit Juice": 0.1004
+  },
+  "1-3-0-3-0": {
+    "Fanta": 0.4913,
+    "Fuze Tea": 0.4159,
+    "Multifruit Juice": 0.0928
+  },
+  "1-3-0-3-1": {
+    "Fanta": 0.9683,
+    "Fuze Tea": 0.0108,
+    "Multifruit Juice": 0.021
+  },
+  "1-3-0-3-2": {
+    "Fanta": 0.5874,
+    "Fuze Tea": 0.3016,
+    "Multifruit Juice": 0.111
+  },
+  "1-3-0-3-3": {
+    "Fanta": 0.2321,
+    "Fuze Tea": 0.0225,
+    "Multifruit Juice": 0.7454
+  },
+  "1-3-1-0-0": {
+    "Fanta": 0.0021,
+    "Fuze Tea": 0.9976,
+    "Multifruit Juice": 0.0003
+  },
+  "1-3-1-0-1": {
+    "Fanta": 0.1375,
+    "Fuze Tea": 0.8603,
+    "Multifruit Juice": 0.0021
+  },
+  "1-3-1-0-2": {
+    "Fanta": 0.0034,
+    "Fuze Tea": 0.9961,
+    "Multifruit Juice": 0.0005
+  },
+  "1-3-1-0-3": {
+    "Fanta": 0.0173,
+    "Fuze Tea": 0.943,
+    "Multifruit Juice": 0.0397
+  },
+  "1-3-1-1-0": {
+    "Fanta": 0.1821,
+    "Fuze Tea": 0.8159,
+    "Multifruit Juice": 0.002
+  },
+  "1-3-1-1-1": {
+    "Fanta": 0.9433,
+    "Fuze Tea": 0.0555,
+    "Multifruit Juice": 0.0012
+  },
+  "1-3-1-1-2": {
+    "Fanta": 0.2681,
+    "Fuze Tea": 0.7289,
+    "Multifruit Juice": 0.003
+  },
+  "1-3-1-1-3": {
+    "Fanta": 0.5874,
+    "Fuze Tea": 0.3016,
+    "Multifruit Juice": 0.111
+  },
+  "1-3-1-2-0": {
+    "Fanta": 0.0018,
+    "Fuze Tea": 0.998,
+    "Multifruit Juice": 0.0002
+  },
+  "1-3-1-2-1": {
+    "Fanta": 0.119,
+    "Fuze Tea": 0.8792,
+    "Multifruit Juice": 0.0018
+  },
+  "1-3-1-2-2": {
+    "Fanta": 0.0029,
+    "Fuze Tea": 0.9967,
+    "Multifruit Juice": 0.0004
+  },
+  "1-3-1-2-3": {
+    "Fanta": 0.0147,
+    "Fuze Tea": 0.9513,
+    "Multifruit Juice": 0.0339
+  },
+  "1-3-1-3-0": {
+    "Fanta": 0.0174,
+    "Fuze Tea": 0.9488,
+    "Multifruit Juice": 0.0338
+  },
+  "1-3-1-3-1": {
+    "Fanta": 0.5156,
+    "Fuze Tea": 0.3694,
+    "Multifruit Juice": 0.115
+  },
+  "1-3-1-3-2": {
+    "Fanta": 0.0277,
+    "Fuze Tea": 0.9183,
+    "Multifruit Juice": 0.054
+  },
+  "1-3-1-3-3": {
+    "Fanta": 0.0248,
+    "Fuze Tea": 0.1549,
+    "Multifruit Juice": 0.8203
+  },
+  "1-3-2-0-0": {
+    "Fanta": 0.0128,
+    "Fuze Tea": 0.9722,
+    "Multifruit Juice": 0.0151
+  },
+  "1-3-2-0-1": {
+    "Fanta": 0.4683,
+    "Fuze Tea": 0.4683,
+    "Multifruit Juice": 0.0634
+  },
+  "1-3-2-0-2": {
+    "Fanta": 0.0207,
+    "Fuze Tea": 0.9549,
+    "Multifruit Juice": 0.0244
+  },
+  "1-3-2-0-3": {
+    "Fanta": 0.0335,
+    "Fuze Tea": 0.2928,
+    "Multifruit Juice": 0.6737
+  },
+  "1-3-2-1-0": {
+    "Fanta": 0.5514,
+    "Fuze Tea": 0.3951,
+    "Multifruit Juice": 0.0535
+  },
+  "1-3-2-1-1": {
+    "Fanta": 0.9799,
+    "Fuze Tea": 0.0092,
+    "Multifruit Juice": 0.0109
+  },
+  "1-3-2-1-2": {
+    "Fanta": 0.6529,
+    "Fuze Tea": 0.2838,
+    "Multifruit Juice": 0.0633
+  },
+  "1-3-2-1-3": {
+    "Fanta": 0.3662,
+    "Fuze Tea": 0.0301,
+    "Multifruit Juice": 0.6037
+  },
+  "1-3-2-2-0": {
+    "Fanta": 0.0108,
+    "Fuze Tea": 0.9763,
+    "Multifruit Juice": 0.0128
+  },
+  "1-3-2-2-1": {
+    "Fanta": 0.4316,
+    "Fuze Tea": 0.5099,
+    "Multifruit Juice": 0.0584
+  },
+  "1-3-2-2-2": {
+    "Fanta": 0.0176,
+    "Fuze Tea": 0.9616,
+    "Multifruit Juice": 0.0208
+  },
+  "1-3-2-2-3": {
+    "Fanta": 0.0318,
+    "Fuze Tea": 0.3284,
+    "Multifruit Juice": 0.6397
+  },
+  "1-3-2-3-0": {
+    "Fanta": 0.0374,
+    "Fuze Tea": 0.3266,
+    "Multifruit Juice": 0.636
+  },
+  "1-3-2-3-1": {
+    "Fanta": 0.3266,
+    "Fuze Tea": 0.0374,
+    "Multifruit Juice": 0.636
+  },
+  "1-3-2-3-2": {
+    "Fanta": 0.0429,
+    "Fuze Tea": 0.2273,
+    "Multifruit Juice": 0.7298
+  },
+  "1-3-2-3-3": {
+    "Fanta": 0.0034,
+    "Fuze Tea": 0.0034,
+    "Multifruit Juice": 0.9931
+  },
+  "1-3-3-0-0": {
+    "Fanta": 0.0126,
+    "Fuze Tea": 0.9628,
+    "Multifruit Juice": 0.0246
+  },
+  "1-3-3-0-1": {
+    "Fanta": 0.4498,
+    "Fuze Tea": 0.4498,
+    "Multifruit Juice": 0.1004
+  },
+  "1-3-3-0-2": {
+    "Fanta": 0.0203,
+    "Fuze Tea": 0.94,
+    "Multifruit Juice": 0.0396
+  },
+  "1-3-3-0-3": {
+    "Fanta": 0.0233,
+    "Fuze Tea": 0.2037,
+    "Multifruit Juice": 0.7729
+  },
+  "1-3-3-1-0": {
+    "Fanta": 0.5329,
+    "Fuze Tea": 0.3819,
+    "Multifruit Juice": 0.0852
+  },
+  "1-3-3-1-1": {
+    "Fanta": 0.973,
+    "Fuze Tea": 0.0091,
+    "Multifruit Juice": 0.0178
+  },
+  "1-3-3-1-2": {
+    "Fanta": 0.6272,
+    "Fuze Tea": 0.2726,
+    "Multifruit Juice": 0.1003
+  },
+  "1-3-3-1-3": {
+    "Fanta": 0.2631,
+    "Fuze Tea": 0.0216,
+    "Multifruit Juice": 0.7153
+  },
+  "1-3-3-2-0": {
+    "Fanta": 0.0108,
+    "Fuze Tea": 0.9683,
+    "Multifruit Juice": 0.021
+  },
+  "1-3-3-2-1": {
+    "Fanta": 0.4159,
+    "Fuze Tea": 0.4913,
+    "Multifruit Juice": 0.0928
+  },
+  "1-3-3-2-2": {
+    "Fanta": 0.0174,
+    "Fuze Tea": 0.9488,
+    "Multifruit Juice": 0.0338
+  },
+  "1-3-3-2-3": {
+    "Fanta": 0.0225,
+    "Fuze Tea": 0.2321,
+    "Multifruit Juice": 0.7454
+  },
+  "1-3-3-3-0": {
+    "Fanta": 0.0265,
+    "Fuze Tea": 0.2312,
+    "Multifruit Juice": 0.7423
+  },
+  "1-3-3-3-1": {
+    "Fanta": 0.2312,
+    "Fuze Tea": 0.0265,
+    "Multifruit Juice": 0.7423
+  },
+  "1-3-3-3-2": {
+    "Fanta": 0.0291,
+    "Fuze Tea": 0.1542,
+    "Multifruit Juice": 0.8166
+  },
+  "1-3-3-3-3": {
+    "Fanta": 0.0021,
+    "Fuze Tea": 0.0021,
+    "Multifruit Juice": 0.9958
+  },
+  "2-0-0-0-0": {
+    "Fanta": 0.5514,
+    "Fuze Tea": 0.3951,
+    "Multifruit Juice": 0.0535
+  },
+  "2-0-0-0-1": {
+    "Fanta": 0.9799,
+    "Fuze Tea": 0.0092,
+    "Multifruit Juice": 0.0109
+  },
+  "2-0-0-0-2": {
+    "Fanta": 0.6529,
+    "Fuze Tea": 0.2838,
+    "Multifruit Juice": 0.0633
+  },
+  "2-0-0-0-3": {
+    "Fanta": 0.3662,
+    "Fuze Tea": 0.0301,
+    "Multifruit Juice": 0.6037
+  },
+  "2-0-0-1-0": {
+    "Fanta": 0.9855,
+    "Fuze Tea": 0.0066,
+    "Multifruit Juice": 0.0078
+  },
+  "2-0-0-1-1": {
+    "Fanta": 0.999,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.0009
+  },
+  "2-0-0-1-2": {
+    "Fanta": 0.9881,
+    "Fuze Tea": 0.004,
+    "Multifruit Juice": 0.0079
+  },
+  "2-0-0-1-3": {
+    "Fanta": 0.8802,
+    "Fuze Tea": 0.0007,
+    "Multifruit Juice": 0.1191
+  },
+  "2-0-0-2-0": {
+    "Fanta": 0.5145,
+    "Fuze Tea": 0.4356,
+    "Multifruit Juice": 0.0499
+  },
+  "2-0-0-2-1": {
+    "Fanta": 0.9783,
+    "Fuze Tea": 0.0109,
+    "Multifruit Juice": 0.0109
+  },
+  "2-0-0-2-2": {
+    "Fanta": 0.621,
+    "Fuze Tea": 0.3188,
+    "Multifruit Juice": 0.0602
+  },
+  "2-0-0-2-3": {
+    "Fanta": 0.3642,
+    "Fuze Tea": 0.0353,
+    "Multifruit Juice": 0.6005
+  },
+  "2-0-0-3-0": {
+    "Fanta": 0.4036,
+    "Fuze Tea": 0.0331,
+    "Multifruit Juice": 0.5633
+  },
+  "2-0-0-3-1": {
+    "Fanta": 0.8614,
+    "Fuze Tea": 0.0009,
+    "Multifruit Juice": 0.1377
+  },
+  "2-0-0-3-2": {
+    "Fanta": 0.4089,
+    "Fuze Tea": 0.0204,
+    "Multifruit Juice": 0.5707
+  },
+  "2-0-0-3-3": {
+    "Fanta": 0.0404,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.9592
+  },
+  "2-0-1-0-0": {
+    "Fanta": 0.0207,
+    "Fuze Tea": 0.9585,
+    "Multifruit Juice": 0.0207
+  },
+  "2-0-1-0-1": {
+    "Fanta": 0.581,
+    "Fuze Tea": 0.3524,
+    "Multifruit Juice": 0.0666
+  },
+  "2-0-1-0-2": {
+    "Fanta": 0.0333,
+    "Fuze Tea": 0.9334,
+    "Multifruit Juice": 0.0333
+  },
+  "2-0-1-0-3": {
+    "Fanta": 0.0429,
+    "Fuze Tea": 0.2273,
+    "Multifruit Juice": 0.7298
+  },
+  "2-0-1-1-0": {
+    "Fanta": 0.6593,
+    "Fuze Tea": 0.2865,
+    "Multifruit Juice": 0.0541
+  },
+  "2-0-1-1-1": {
+    "Fanta": 0.9851,
+    "Fuze Tea": 0.0056,
+    "Multifruit Juice": 0.0093
+  },
+  "2-0-1-1-2": {
+    "Fanta": 0.7431,
+    "Fuze Tea": 0.1959,
+    "Multifruit Juice": 0.061
+  },
+  "2-0-1-1-3": {
+    "Fanta": 0.4089,
+    "Fuze Tea": 0.0204,
+    "Multifruit Juice": 0.5707
+  },
+  "2-0-1-2-0": {
+    "Fanta": 0.0177,
+    "Fuze Tea": 0.9647,
+    "Multifruit Juice": 0.0177
+  },
+  "2-0-1-2-1": {
+    "Fanta": 0.5461,
+    "Fuze Tea": 0.3913,
+    "Multifruit Juice": 0.0626
+  },
+  "2-0-1-2-2": {
+    "Fanta": 0.0285,
+    "Fuze Tea": 0.943,
+    "Multifruit Juice": 0.0285
+  },
+  "2-0-1-2-3": {
+    "Fanta": 0.0412,
+    "Fuze Tea": 0.2579,
+    "Multifruit Juice": 0.7009
+  },
+  "2-0-1-3-0": {
+    "Fanta": 0.0483,
+    "Fuze Tea": 0.2559,
+    "Multifruit Juice": 0.6957
+  },
+  "2-0-1-3-1": {
+    "Fanta": 0.3679,
+    "Fuze Tea": 0.0256,
+    "Multifruit Juice": 0.6065
+  },
+  "2-0-1-3-2": {
+    "Fanta": 0.0538,
+    "Fuze Tea": 0.1726,
+    "Multifruit Juice": 0.7736
+  },
+  "2-0-1-3-3": {
+    "Fanta": 0.0041,
+    "Fuze Tea": 0.0025,
+    "Multifruit Juice": 0.9935
+  },
+  "2-0-2-0-0": {
+    "Fanta": 0.0584,
+    "Fuze Tea": 0.4316,
+    "Multifruit Juice": 0.5099
+  },
+  "2-0-2-0-1": {
+    "Fanta": 0.4769,
+    "Fuze Tea": 0.0462,
+    "Multifruit Juice": 0.4769
+  },
+  "2-0-2-0-2": {
+    "Fanta": 0.0704,
+    "Fuze Tea": 0.3154,
+    "Multifruit Juice": 0.6143
+  },
+  "2-0-2-0-3": {
+    "Fanta": 0.0067,
+    "Fuze Tea": 0.0056,
+    "Multifruit Juice": 0.9877
+  },
+  "2-0-2-1-0": {
+    "Fanta": 0.5599,
+    "Fuze Tea": 0.0389,
+    "Multifruit Juice": 0.4012
+  },
+  "2-0-2-1-1": {
+    "Fanta": 0.9234,
+    "Fuze Tea": 0.0008,
+    "Multifruit Juice": 0.0758
+  },
+  "2-0-2-1-2": {
+    "Fanta": 0.5686,
+    "Fuze Tea": 0.024,
+    "Multifruit Juice": 0.4074
+  },
+  "2-0-2-1-3": {
+    "Fanta": 0.0758,
+    "Fuze Tea": 0.0006,
+    "Multifruit Juice": 0.9236
+  },
+  "2-0-2-2-0": {
+    "Fanta": 0.0542,
+    "Fuze Tea": 0.4729,
+    "Multifruit Juice": 0.4729
+  },
+  "2-0-2-2-1": {
+    "Fanta": 0.4729,
+    "Fuze Tea": 0.0542,
+    "Multifruit Juice": 0.4729
+  },
+  "2-0-2-2-2": {
+    "Fanta": 0.0666,
+    "Fuze Tea": 0.3524,
+    "Multifruit Juice": 0.581
+  },
+  "2-0-2-2-3": {
+    "Fanta": 0.0066,
+    "Fuze Tea": 0.0066,
+    "Multifruit Juice": 0.9867
+  },
+  "2-0-2-3-0": {
+    "Fanta": 0.0078,
+    "Fuze Tea": 0.0066,
+    "Multifruit Juice": 0.9855
+  },
+  "2-0-2-3-1": {
+    "Fanta": 0.0649,
+    "Fuze Tea": 0.0007,
+    "Multifruit Juice": 0.9344
+  },
+  "2-0-2-3-2": {
+    "Fanta": 0.0079,
+    "Fuze Tea": 0.004,
+    "Multifruit Juice": 0.9881
+  },
+  "2-0-2-3-3": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9995
+  },
+  "2-0-3-0-0": {
+    "Fanta": 0.0439,
+    "Fuze Tea": 0.3244,
+    "Multifruit Juice": 0.6318
+  },
+  "2-0-3-0-1": {
+    "Fanta": 0.3642,
+    "Fuze Tea": 0.0353,
+    "Multifruit Juice": 0.6005
+  },
+  "2-0-3-0-2": {
+    "Fanta": 0.0503,
+    "Fuze Tea": 0.2255,
+    "Multifruit Juice": 0.7242
+  },
+  "2-0-3-0-3": {
+    "Fanta": 0.0041,
+    "Fuze Tea": 0.0034,
+    "Multifruit Juice": 0.9925
+  },
+  "2-0-3-1-0": {
+    "Fanta": 0.4443,
+    "Fuze Tea": 0.0309,
+    "Multifruit Juice": 0.5249
+  },
+  "2-0-3-1-1": {
+    "Fanta": 0.8801,
+    "Fuze Tea": 0.0008,
+    "Multifruit Juice": 0.1191
+  },
+  "2-0-3-1-2": {
+    "Fanta": 0.4497,
+    "Fuze Tea": 0.019,
+    "Multifruit Juice": 0.5313
+  },
+  "2-0-3-1-3": {
+    "Fanta": 0.0474,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.9522
+  },
+  "2-0-3-2-0": {
+    "Fanta": 0.0415,
+    "Fuze Tea": 0.3619,
+    "Multifruit Juice": 0.5967
+  },
+  "2-0-3-2-1": {
+    "Fanta": 0.3619,
+    "Fuze Tea": 0.0415,
+    "Multifruit Juice": 0.5967
+  },
+  "2-0-3-2-2": {
+    "Fanta": 0.0483,
+    "Fuze Tea": 0.2559,
+    "Multifruit Juice": 0.6957
+  },
+  "2-0-3-2-3": {
+    "Fanta": 0.0041,
+    "Fuze Tea": 0.0041,
+    "Multifruit Juice": 0.9919
+  },
+  "2-0-3-3-0": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0041,
+    "Multifruit Juice": 0.9912
+  },
+  "2-0-3-3-1": {
+    "Fanta": 0.0404,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.9591
+  },
+  "2-0-3-3-2": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0025,
+    "Multifruit Juice": 0.9927
+  },
+  "2-0-3-3-3": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9997
+  },
+  "2-1-0-0-0": {
+    "Fanta": 0.0486,
+    "Fuze Tea": 0.3592,
+    "Multifruit Juice": 0.5922
+  },
+  "2-1-0-0-1": {
+    "Fanta": 0.4012,
+    "Fuze Tea": 0.0389,
+    "Multifruit Juice": 0.5599
+  },
+  "2-1-0-0-2": {
+    "Fanta": 0.0566,
+    "Fuze Tea": 0.2537,
+    "Multifruit Juice": 0.6897
+  },
+  "2-1-0-0-3": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0041,
+    "Multifruit Juice": 0.9912
+  },
+  "2-1-0-1-0": {
+    "Fanta": 0.4832,
+    "Fuze Tea": 0.0336,
+    "Multifruit Juice": 0.4832
+  },
+  "2-1-0-1-1": {
+    "Fanta": 0.8965,
+    "Fuze Tea": 0.0008,
+    "Multifruit Juice": 0.1027
+  },
+  "2-1-0-1-2": {
+    "Fanta": 0.4897,
+    "Fuze Tea": 0.0206,
+    "Multifruit Juice": 0.4897
+  },
+  "2-1-0-1-3": {
+    "Fanta": 0.0555,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.944
+  },
+  "2-1-0-2-0": {
+    "Fanta": 0.0456,
+    "Fuze Tea": 0.3984,
+    "Multifruit Juice": 0.556
+  },
+  "2-1-0-2-1": {
+    "Fanta": 0.3984,
+    "Fuze Tea": 0.0456,
+    "Multifruit Juice": 0.556
+  },
+  "2-1-0-2-2": {
+    "Fanta": 0.0541,
+    "Fuze Tea": 0.2865,
+    "Multifruit Juice": 0.6593
+  },
+  "2-1-0-2-3": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0048,
+    "Multifruit Juice": 0.9904
+  },
+  "2-1-0-3-0": {
+    "Fanta": 0.0056,
+    "Fuze Tea": 0.0048,
+    "Multifruit Juice": 0.9896
+  },
+  "2-1-0-3-1": {
+    "Fanta": 0.0474,
+    "Fuze Tea": 0.0005,
+    "Multifruit Juice": 0.9521
+  },
+  "2-1-0-3-2": {
+    "Fanta": 0.0057,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.9914
+  },
+  "2-1-0-3-3": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9996
+  },
+  "2-1-1-0-0": {
+    "Fanta": 0.0017,
+    "Fuze Tea": 0.7901,
+    "Multifruit Juice": 0.2083
+  },
+  "2-1-1-0-1": {
+    "Fanta": 0.0462,
+    "Fuze Tea": 0.2889,
+    "Multifruit Juice": 0.6649
+  },
+  "2-1-1-0-2": {
+    "Fanta": 0.0024,
+    "Fuze Tea": 0.6954,
+    "Multifruit Juice": 0.3022
+  },
+  "2-1-1-0-3": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.0249,
+    "Multifruit Juice": 0.9746
+  },
+  "2-1-1-1-0": {
+    "Fanta": 0.0633,
+    "Fuze Tea": 0.2838,
+    "Multifruit Juice": 0.6529
+  },
+  "2-1-1-1-1": {
+    "Fanta": 0.4464,
+    "Fuze Tea": 0.0263,
+    "Multifruit Juice": 0.5274
+  },
+  "2-1-1-1-2": {
+    "Fanta": 0.0713,
+    "Fuze Tea": 0.1937,
+    "Multifruit Juice": 0.735
+  },
+  "2-1-1-1-3": {
+    "Fanta": 0.0057,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.9914
+  },
+  "2-1-1-2-0": {
+    "Fanta": 0.0014,
+    "Fuze Tea": 0.8164,
+    "Multifruit Juice": 0.1822
+  },
+  "2-1-1-2-1": {
+    "Fanta": 0.0439,
+    "Fuze Tea": 0.3244,
+    "Multifruit Juice": 0.6318
+  },
+  "2-1-1-2-2": {
+    "Fanta": 0.0021,
+    "Fuze Tea": 0.7295,
+    "Multifruit Juice": 0.2684
+  },
+  "2-1-1-2-3": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.0293,
+    "Multifruit Juice": 0.9702
+  },
+  "2-1-1-3-0": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.0293,
+    "Multifruit Juice": 0.9702
+  },
+  "2-1-1-3-1": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0034,
+    "Multifruit Juice": 0.9918
+  },
+  "2-1-1-3-2": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.018,
+    "Multifruit Juice": 0.9815
+  },
+  "2-1-1-3-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0002,
+    "Multifruit Juice": 0.9998
+  },
+  "2-1-2-0-0": {
+    "Fanta": 0.0009,
+    "Fuze Tea": 0.0649,
+    "Multifruit Juice": 0.9342
+  },
+  "2-1-2-0-1": {
+    "Fanta": 0.0078,
+    "Fuze Tea": 0.0078,
+    "Multifruit Juice": 0.9843
+  },
+  "2-1-2-0-2": {
+    "Fanta": 0.0009,
+    "Fuze Tea": 0.0404,
+    "Multifruit Juice": 0.9587
+  },
+  "2-1-2-0-3": {
+    "Fanta": 0.0001,
+    "Fuze Tea": 0.0005,
+    "Multifruit Juice": 0.9995
+  },
+  "2-1-2-1-0": {
+    "Fanta": 0.0109,
+    "Fuze Tea": 0.0078,
+    "Multifruit Juice": 0.9813
+  },
+  "2-1-2-1-1": {
+    "Fanta": 0.0883,
+    "Fuze Tea": 0.0008,
+    "Multifruit Juice": 0.9108
+  },
+  "2-1-2-1-2": {
+    "Fanta": 0.0109,
+    "Fuze Tea": 0.0048,
+    "Multifruit Juice": 0.9843
+  },
+  "2-1-2-1-3": {
+    "Fanta": 0.0007,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.9993
+  },
+  "2-1-2-2-0": {
+    "Fanta": 0.0008,
+    "Fuze Tea": 0.0758,
+    "Multifruit Juice": 0.9234
+  },
+  "2-1-2-2-1": {
+    "Fanta": 0.0078,
+    "Fuze Tea": 0.0092,
+    "Multifruit Juice": 0.9829
+  },
+  "2-1-2-2-2": {
+    "Fanta": 0.0009,
+    "Fuze Tea": 0.0474,
+    "Multifruit Juice": 0.9517
+  },
+  "2-1-2-2-3": {
+    "Fanta": 0.0001,
+    "Fuze Tea": 0.0006,
+    "Multifruit Juice": 0.9994
+  },
+  "2-1-2-3-0": {
+    "Fanta": 0.0001,
+    "Fuze Tea": 0.0006,
+    "Multifruit Juice": 0.9994
+  },
+  "2-1-2-3-1": {
+    "Fanta": 0.0006,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.9994
+  },
+  "2-1-2-3-2": {
+    "Fanta": 0.0001,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9996
+  },
+  "2-1-2-3-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 1.0
+  },
+  "2-1-3-0-0": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.0404,
+    "Multifruit Juice": 0.9591
+  },
+  "2-1-3-0-1": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0048,
+    "Multifruit Juice": 0.9904
+  },
+  "2-1-3-0-2": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.0249,
+    "Multifruit Juice": 0.9745
+  },
+  "2-1-3-0-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9997
+  },
+  "2-1-3-1-0": {
+    "Fanta": 0.0067,
+    "Fuze Tea": 0.0048,
+    "Multifruit Juice": 0.9886
+  },
+  "2-1-3-1-1": {
+    "Fanta": 0.0555,
+    "Fuze Tea": 0.0005,
+    "Multifruit Juice": 0.944
+  },
+  "2-1-3-1-2": {
+    "Fanta": 0.0067,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.9904
+  },
+  "2-1-3-1-3": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9996
+  },
+  "2-1-3-2-0": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.0474,
+    "Multifruit Juice": 0.9521
+  },
+  "2-1-3-2-1": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0056,
+    "Multifruit Juice": 0.9896
+  },
+  "2-1-3-2-2": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.0293,
+    "Multifruit Juice": 0.9702
+  },
+  "2-1-3-2-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9996
+  },
+  "2-1-3-3-0": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9996
+  },
+  "2-1-3-3-1": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9996
+  },
+  "2-1-3-3-2": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0002,
+    "Multifruit Juice": 0.9998
+  },
+  "2-1-3-3-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 1.0
+  },
+  "2-2-0-0-0": {
+    "Fanta": 0.0207,
+    "Fuze Tea": 0.9585,
+    "Multifruit Juice": 0.0207
+  },
+  "2-2-0-0-1": {
+    "Fanta": 0.581,
+    "Fuze Tea": 0.3524,
+    "Multifruit Juice": 0.0666
+  },
+  "2-2-0-0-2": {
+    "Fanta": 0.0333,
+    "Fuze Tea": 0.9334,
+    "Multifruit Juice": 0.0333
+  },
+  "2-2-0-0-3": {
+    "Fanta": 0.0429,
+    "Fuze Tea": 0.2273,
+    "Multifruit Juice": 0.7298
+  },
+  "2-2-0-1-0": {
+    "Fanta": 0.6593,
+    "Fuze Tea": 0.2865,
+    "Multifruit Juice": 0.0541
+  },
+  "2-2-0-1-1": {
+    "Fanta": 0.9851,
+    "Fuze Tea": 0.0056,
+    "Multifruit Juice": 0.0093
+  },
+  "2-2-0-1-2": {
+    "Fanta": 0.7431,
+    "Fuze Tea": 0.1959,
+    "Multifruit Juice": 0.061
+  },
+  "2-2-0-1-3": {
+    "Fanta": 0.4089,
+    "Fuze Tea": 0.0204,
+    "Multifruit Juice": 0.5707
+  },
+  "2-2-0-2-0": {
+    "Fanta": 0.0177,
+    "Fuze Tea": 0.9647,
+    "Multifruit Juice": 0.0177
+  },
+  "2-2-0-2-1": {
+    "Fanta": 0.5461,
+    "Fuze Tea": 0.3913,
+    "Multifruit Juice": 0.0626
+  },
+  "2-2-0-2-2": {
+    "Fanta": 0.0285,
+    "Fuze Tea": 0.943,
+    "Multifruit Juice": 0.0285
+  },
+  "2-2-0-2-3": {
+    "Fanta": 0.0412,
+    "Fuze Tea": 0.2579,
+    "Multifruit Juice": 0.7009
+  },
+  "2-2-0-3-0": {
+    "Fanta": 0.0483,
+    "Fuze Tea": 0.2559,
+    "Multifruit Juice": 0.6957
+  },
+  "2-2-0-3-1": {
+    "Fanta": 0.3679,
+    "Fuze Tea": 0.0256,
+    "Multifruit Juice": 0.6065
+  },
+  "2-2-0-3-2": {
+    "Fanta": 0.0538,
+    "Fuze Tea": 0.1726,
+    "Multifruit Juice": 0.7736
+  },
+  "2-2-0-3-3": {
+    "Fanta": 0.0041,
+    "Fuze Tea": 0.0025,
+    "Multifruit Juice": 0.9935
+  },
+  "2-2-1-0-0": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.9962,
+    "Multifruit Juice": 0.0034
+  },
+  "2-2-1-0-1": {
+    "Fanta": 0.0242,
+    "Fuze Tea": 0.9472,
+    "Multifruit Juice": 0.0286
+  },
+  "2-2-1-0-2": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.9938,
+    "Multifruit Juice": 0.0057
+  },
+  "2-2-1-0-3": {
+    "Fanta": 0.0019,
+    "Fuze Tea": 0.6595,
+    "Multifruit Juice": 0.3386
+  },
+  "2-2-1-1-0": {
+    "Fanta": 0.0335,
+    "Fuze Tea": 0.9382,
+    "Multifruit Juice": 0.0283
+  },
+  "2-2-1-1-1": {
+    "Fanta": 0.6827,
+    "Fuze Tea": 0.2511,
+    "Multifruit Juice": 0.0662
+  },
+  "2-2-1-1-2": {
+    "Fanta": 0.0531,
+    "Fuze Tea": 0.902,
+    "Multifruit Juice": 0.0449
+  },
+  "2-2-1-1-3": {
+    "Fanta": 0.0538,
+    "Fuze Tea": 0.1726,
+    "Multifruit Juice": 0.7736
+  },
+  "2-2-1-2-0": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.9968,
+    "Multifruit Juice": 0.0029
+  },
+  "2-2-1-2-1": {
+    "Fanta": 0.0207,
+    "Fuze Tea": 0.9549,
+    "Multifruit Juice": 0.0244
+  },
+  "2-2-1-2-2": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.9947,
+    "Multifruit Juice": 0.0048
+  },
+  "2-2-1-2-3": {
+    "Fanta": 0.0017,
+    "Fuze Tea": 0.6959,
+    "Multifruit Juice": 0.3024
+  },
+  "2-2-1-3-0": {
+    "Fanta": 0.002,
+    "Fuze Tea": 0.6956,
+    "Multifruit Juice": 0.3023
+  },
+  "2-2-1-3-1": {
+    "Fanta": 0.0445,
+    "Fuze Tea": 0.1993,
+    "Multifruit Juice": 0.7562
+  },
+  "2-2-1-3-2": {
+    "Fanta": 0.0028,
+    "Fuze Tea": 0.5809,
+    "Multifruit Juice": 0.4163
+  },
+  "2-2-1-3-3": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.0153,
+    "Multifruit Juice": 0.9843
+  },
+  "2-2-2-0-0": {
+    "Fanta": 0.0018,
+    "Fuze Tea": 0.8396,
+    "Multifruit Juice": 0.1586
+  },
+  "2-2-2-0-1": {
+    "Fanta": 0.0569,
+    "Fuze Tea": 0.356,
+    "Multifruit Juice": 0.587
+  },
+  "2-2-2-0-2": {
+    "Fanta": 0.0026,
+    "Fuze Tea": 0.7605,
+    "Multifruit Juice": 0.2368
+  },
+  "2-2-2-0-3": {
+    "Fanta": 0.0006,
+    "Fuze Tea": 0.0344,
+    "Multifruit Juice": 0.9649
+  },
+  "2-2-2-1-0": {
+    "Fanta": 0.0777,
+    "Fuze Tea": 0.3482,
+    "Multifruit Juice": 0.5741
+  },
+  "2-2-2-1-1": {
+    "Fanta": 0.5249,
+    "Fuze Tea": 0.0309,
+    "Multifruit Juice": 0.4443
+  },
+  "2-2-2-1-2": {
+    "Fanta": 0.09,
+    "Fuze Tea": 0.2447,
+    "Multifruit Juice": 0.6652
+  },
+  "2-2-2-1-3": {
+    "Fanta": 0.0079,
+    "Fuze Tea": 0.004,
+    "Multifruit Juice": 0.9881
+  },
+  "2-2-2-2-0": {
+    "Fanta": 0.0015,
+    "Fuze Tea": 0.8608,
+    "Multifruit Juice": 0.1376
+  },
+  "2-2-2-2-1": {
+    "Fanta": 0.0535,
+    "Fuze Tea": 0.3951,
+    "Multifruit Juice": 0.5514
+  },
+  "2-2-2-2-2": {
+    "Fanta": 0.0023,
+    "Fuze Tea": 0.7896,
+    "Multifruit Juice": 0.2081
+  },
+  "2-2-2-2-3": {
+    "Fanta": 0.0006,
+    "Fuze Tea": 0.0404,
+    "Multifruit Juice": 0.959
+  },
+  "2-2-2-3-0": {
+    "Fanta": 0.0007,
+    "Fuze Tea": 0.0404,
+    "Multifruit Juice": 0.9589
+  },
+  "2-2-2-3-1": {
+    "Fanta": 0.0067,
+    "Fuze Tea": 0.0048,
+    "Multifruit Juice": 0.9886
+  },
+  "2-2-2-3-2": {
+    "Fanta": 0.0008,
+    "Fuze Tea": 0.0249,
+    "Multifruit Juice": 0.9743
+  },
+  "2-2-2-3-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9997
+  },
+  "2-2-3-0-0": {
+    "Fanta": 0.0016,
+    "Fuze Tea": 0.7613,
+    "Multifruit Juice": 0.2371
+  },
+  "2-2-3-0-1": {
+    "Fanta": 0.0412,
+    "Fuze Tea": 0.2579,
+    "Multifruit Juice": 0.7009
+  },
+  "2-2-3-0-2": {
+    "Fanta": 0.0023,
+    "Fuze Tea": 0.6592,
+    "Multifruit Juice": 0.3385
+  },
+  "2-2-3-0-3": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.0212,
+    "Multifruit Juice": 0.9784
+  },
+  "2-2-3-1-0": {
+    "Fanta": 0.0566,
+    "Fuze Tea": 0.2537,
+    "Multifruit Juice": 0.6897
+  },
+  "2-2-3-1-1": {
+    "Fanta": 0.4074,
+    "Fuze Tea": 0.024,
+    "Multifruit Juice": 0.5686
+  },
+  "2-2-3-1-2": {
+    "Fanta": 0.0629,
+    "Fuze Tea": 0.171,
+    "Multifruit Juice": 0.7662
+  },
+  "2-2-3-1-3": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0025,
+    "Multifruit Juice": 0.9927
+  },
+  "2-2-3-2-0": {
+    "Fanta": 0.0014,
+    "Fuze Tea": 0.7903,
+    "Multifruit Juice": 0.2083
+  },
+  "2-2-3-2-1": {
+    "Fanta": 0.0394,
+    "Fuze Tea": 0.291,
+    "Multifruit Juice": 0.6696
+  },
+  "2-2-3-2-2": {
+    "Fanta": 0.002,
+    "Fuze Tea": 0.6956,
+    "Multifruit Juice": 0.3023
+  },
+  "2-2-3-2-3": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.0249,
+    "Multifruit Juice": 0.9747
+  },
+  "2-2-3-3-0": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.0249,
+    "Multifruit Juice": 0.9746
+  },
+  "2-2-3-3-1": {
+    "Fanta": 0.0041,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.993
+  },
+  "2-2-3-3-2": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.0153,
+    "Multifruit Juice": 0.9843
+  },
+  "2-2-3-3-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0002,
+    "Multifruit Juice": 0.9998
+  },
+  "2-3-0-0-0": {
+    "Fanta": 0.4683,
+    "Fuze Tea": 0.4683,
+    "Multifruit Juice": 0.0634
+  },
+  "2-3-0-0-1": {
+    "Fanta": 0.9722,
+    "Fuze Tea": 0.0128,
+    "Multifruit Juice": 0.0151
+  },
+  "2-3-0-0-2": {
+    "Fanta": 0.5741,
+    "Fuze Tea": 0.3482,
+    "Multifruit Juice": 0.0777
+  },
+  "2-3-0-0-3": {
+    "Fanta": 0.2928,
+    "Fuze Tea": 0.0335,
+    "Multifruit Juice": 0.6737
+  },
+  "2-3-0-1-0": {
+    "Fanta": 0.9799,
+    "Fuze Tea": 0.0092,
+    "Multifruit Juice": 0.0109
+  },
+  "2-3-0-1-1": {
+    "Fanta": 0.9986,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.0013
+  },
+  "2-3-0-1-2": {
+    "Fanta": 0.9835,
+    "Fuze Tea": 0.0056,
+    "Multifruit Juice": 0.0109
+  },
+  "2-3-0-1-3": {
+    "Fanta": 0.8404,
+    "Fuze Tea": 0.0009,
+    "Multifruit Juice": 0.1587
+  },
+  "2-3-0-2-0": {
+    "Fanta": 0.4316,
+    "Fuze Tea": 0.5099,
+    "Multifruit Juice": 0.0584
+  },
+  "2-3-0-2-1": {
+    "Fanta": 0.9699,
+    "Fuze Tea": 0.015,
+    "Multifruit Juice": 0.015
+  },
+  "2-3-0-2-2": {
+    "Fanta": 0.54,
+    "Fuze Tea": 0.3869,
+    "Multifruit Juice": 0.0731
+  },
+  "2-3-0-2-3": {
+    "Fanta": 0.291,
+    "Fuze Tea": 0.0394,
+    "Multifruit Juice": 0.6696
+  },
+  "2-3-0-3-0": {
+    "Fanta": 0.3266,
+    "Fuze Tea": 0.0374,
+    "Multifruit Juice": 0.636
+  },
+  "2-3-0-3-1": {
+    "Fanta": 0.8166,
+    "Fuze Tea": 0.0012,
+    "Multifruit Juice": 0.1822
+  },
+  "2-3-0-3-2": {
+    "Fanta": 0.3314,
+    "Fuze Tea": 0.023,
+    "Multifruit Juice": 0.6455
+  },
+  "2-3-0-3-3": {
+    "Fanta": 0.0293,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.9703
+  },
+  "2-3-1-0-0": {
+    "Fanta": 0.0149,
+    "Fuze Tea": 0.9642,
+    "Multifruit Juice": 0.0209
+  },
+  "2-3-1-0-1": {
+    "Fanta": 0.4984,
+    "Fuze Tea": 0.4219,
+    "Multifruit Juice": 0.0797
+  },
+  "2-3-1-0-2": {
+    "Fanta": 0.0241,
+    "Fuze Tea": 0.9423,
+    "Multifruit Juice": 0.0336
+  },
+  "2-3-1-0-3": {
+    "Fanta": 0.0311,
+    "Fuze Tea": 0.2301,
+    "Multifruit Juice": 0.7388
+  },
+  "2-3-1-1-0": {
+    "Fanta": 0.581,
+    "Fuze Tea": 0.3524,
+    "Multifruit Juice": 0.0666
+  },
+  "2-3-1-1-1": {
+    "Fanta": 0.9794,
+    "Fuze Tea": 0.0078,
+    "Multifruit Juice": 0.0129
+  },
+  "2-3-1-1-2": {
+    "Fanta": 0.6746,
+    "Fuze Tea": 0.2482,
+    "Multifruit Juice": 0.0773
+  },
+  "2-3-1-1-3": {
+    "Fanta": 0.3314,
+    "Fuze Tea": 0.023,
+    "Multifruit Juice": 0.6455
+  },
+  "2-3-1-2-0": {
+    "Fanta": 0.0127,
+    "Fuze Tea": 0.9695,
+    "Multifruit Juice": 0.0178
+  },
+  "2-3-1-2-1": {
+    "Fanta": 0.463,
+    "Fuze Tea": 0.463,
+    "Multifruit Juice": 0.074
+  },
+  "2-3-1-2-2": {
+    "Fanta": 0.0206,
+    "Fuze Tea": 0.9507,
+    "Multifruit Juice": 0.0287
+  },
+  "2-3-1-2-3": {
+    "Fanta": 0.0299,
+    "Fuze Tea": 0.2609,
+    "Multifruit Juice": 0.7092
+  },
+  "2-3-1-3-0": {
+    "Fanta": 0.0351,
+    "Fuze Tea": 0.2595,
+    "Multifruit Juice": 0.7054
+  },
+  "2-3-1-3-1": {
+    "Fanta": 0.2943,
+    "Fuze Tea": 0.0285,
+    "Multifruit Juice": 0.6772
+  },
+  "2-3-1-3-2": {
+    "Fanta": 0.0391,
+    "Fuze Tea": 0.1753,
+    "Multifruit Juice": 0.7856
+  },
+  "2-3-1-3-3": {
+    "Fanta": 0.0029,
+    "Fuze Tea": 0.0025,
+    "Multifruit Juice": 0.9946
+  },
+  "2-3-2-0-0": {
+    "Fanta": 0.0426,
+    "Fuze Tea": 0.4389,
+    "Multifruit Juice": 0.5185
+  },
+  "2-3-2-0-1": {
+    "Fanta": 0.3951,
+    "Fuze Tea": 0.0535,
+    "Multifruit Juice": 0.5514
+  },
+  "2-3-2-0-2": {
+    "Fanta": 0.0514,
+    "Fuze Tea": 0.3218,
+    "Multifruit Juice": 0.6268
+  },
+  "2-3-2-0-3": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0056,
+    "Multifruit Juice": 0.9896
+  },
+  "2-3-2-1-0": {
+    "Fanta": 0.4769,
+    "Fuze Tea": 0.0462,
+    "Multifruit Juice": 0.4769
+  },
+  "2-3-2-1-1": {
+    "Fanta": 0.8962,
+    "Fuze Tea": 0.0011,
+    "Multifruit Juice": 0.1027
+  },
+  "2-3-2-1-2": {
+    "Fanta": 0.4857,
+    "Fuze Tea": 0.0286,
+    "Multifruit Juice": 0.4857
+  },
+  "2-3-2-1-3": {
+    "Fanta": 0.0555,
+    "Fuze Tea": 0.0006,
+    "Multifruit Juice": 0.9439
+  },
+  "2-3-2-2-0": {
+    "Fanta": 0.0394,
+    "Fuze Tea": 0.4803,
+    "Multifruit Juice": 0.4803
+  },
+  "2-3-2-2-1": {
+    "Fanta": 0.3913,
+    "Fuze Tea": 0.0626,
+    "Multifruit Juice": 0.5461
+  },
+  "2-3-2-2-2": {
+    "Fanta": 0.0486,
+    "Fuze Tea": 0.3592,
+    "Multifruit Juice": 0.5922
+  },
+  "2-3-2-2-3": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0067,
+    "Multifruit Juice": 0.9886
+  },
+  "2-3-2-3-0": {
+    "Fanta": 0.0056,
+    "Fuze Tea": 0.0067,
+    "Multifruit Juice": 0.9877
+  },
+  "2-3-2-3-1": {
+    "Fanta": 0.0474,
+    "Fuze Tea": 0.0007,
+    "Multifruit Juice": 0.9519
+  },
+  "2-3-2-3-2": {
+    "Fanta": 0.0056,
+    "Fuze Tea": 0.004,
+    "Multifruit Juice": 0.9903
+  },
+  "2-3-2-3-3": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9996
+  },
+  "2-3-3-0-0": {
+    "Fanta": 0.0318,
+    "Fuze Tea": 0.3284,
+    "Multifruit Juice": 0.6397
+  },
+  "2-3-3-0-1": {
+    "Fanta": 0.291,
+    "Fuze Tea": 0.0394,
+    "Multifruit Juice": 0.6696
+  },
+  "2-3-3-0-2": {
+    "Fanta": 0.0366,
+    "Fuze Tea": 0.2288,
+    "Multifruit Juice": 0.7347
+  },
+  "2-3-3-0-3": {
+    "Fanta": 0.0029,
+    "Fuze Tea": 0.0034,
+    "Multifruit Juice": 0.9937
+  },
+  "2-3-3-1-0": {
+    "Fanta": 0.3642,
+    "Fuze Tea": 0.0353,
+    "Multifruit Juice": 0.6005
+  },
+  "2-3-3-1-1": {
+    "Fanta": 0.8402,
+    "Fuze Tea": 0.0011,
+    "Multifruit Juice": 0.1587
+  },
+  "2-3-3-1-2": {
+    "Fanta": 0.3693,
+    "Fuze Tea": 0.0217,
+    "Multifruit Juice": 0.6089
+  },
+  "2-3-3-1-3": {
+    "Fanta": 0.0344,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.9652
+  },
+  "2-3-3-2-0": {
+    "Fanta": 0.0301,
+    "Fuze Tea": 0.3662,
+    "Multifruit Juice": 0.6037
+  },
+  "2-3-3-2-1": {
+    "Fanta": 0.2889,
+    "Fuze Tea": 0.0462,
+    "Multifruit Juice": 0.6649
+  },
+  "2-3-3-2-2": {
+    "Fanta": 0.0351,
+    "Fuze Tea": 0.2595,
+    "Multifruit Juice": 0.7054
+  },
+  "2-3-3-2-3": {
+    "Fanta": 0.0029,
+    "Fuze Tea": 0.0041,
+    "Multifruit Juice": 0.993
+  },
+  "2-3-3-3-0": {
+    "Fanta": 0.0034,
+    "Fuze Tea": 0.0041,
+    "Multifruit Juice": 0.9925
+  },
+  "2-3-3-3-1": {
+    "Fanta": 0.0293,
+    "Fuze Tea": 0.0005,
+    "Multifruit Juice": 0.9702
+  },
+  "2-3-3-3-2": {
+    "Fanta": 0.0034,
+    "Fuze Tea": 0.0025,
+    "Multifruit Juice": 0.9941
+  },
+  "2-3-3-3-3": {
+    "Fanta": 0.0002,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9998
+  },
+  "3-0-0-0-0": {
+    "Fanta": 0.54,
+    "Fuze Tea": 0.3869,
+    "Multifruit Juice": 0.0731
+  },
+  "3-0-0-0-1": {
+    "Fanta": 0.9757,
+    "Fuze Tea": 0.0092,
+    "Multifruit Juice": 0.0151
+  },
+  "3-0-0-0-2": {
+    "Fanta": 0.637,
+    "Fuze Tea": 0.2768,
+    "Multifruit Juice": 0.0862
+  },
+  "3-0-0-0-3": {
+    "Fanta": 0.2956,
+    "Fuze Tea": 0.0243,
+    "Multifruit Juice": 0.6801
+  },
+  "3-0-0-1-0": {
+    "Fanta": 0.9825,
+    "Fuze Tea": 0.0066,
+    "Multifruit Juice": 0.0109
+  },
+  "3-0-0-1-1": {
+    "Fanta": 0.9986,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.0013
+  },
+  "3-0-0-1-2": {
+    "Fanta": 0.985,
+    "Fuze Tea": 0.004,
+    "Multifruit Juice": 0.0109
+  },
+  "3-0-0-1-3": {
+    "Fanta": 0.8406,
+    "Fuze Tea": 0.0006,
+    "Multifruit Juice": 0.1588
+  },
+  "3-0-0-2-0": {
+    "Fanta": 0.5046,
+    "Fuze Tea": 0.4271,
+    "Multifruit Juice": 0.0683
+  },
+  "3-0-0-2-1": {
+    "Fanta": 0.9741,
+    "Fuze Tea": 0.0108,
+    "Multifruit Juice": 0.0151
+  },
+  "3-0-0-2-2": {
+    "Fanta": 0.6065,
+    "Fuze Tea": 0.3114,
+    "Multifruit Juice": 0.0821
+  },
+  "3-0-0-2-3": {
+    "Fanta": 0.2943,
+    "Fuze Tea": 0.0285,
+    "Multifruit Juice": 0.6772
+  },
+  "3-0-0-3-0": {
+    "Fanta": 0.3301,
+    "Fuze Tea": 0.0271,
+    "Multifruit Juice": 0.6429
+  },
+  "3-0-0-3-1": {
+    "Fanta": 0.8169,
+    "Fuze Tea": 0.0009,
+    "Multifruit Juice": 0.1823
+  },
+  "3-0-0-3-2": {
+    "Fanta": 0.3336,
+    "Fuze Tea": 0.0166,
+    "Multifruit Juice": 0.6498
+  },
+  "3-0-0-3-3": {
+    "Fanta": 0.0293,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9704
+  },
+  "3-0-1-0-0": {
+    "Fanta": 0.0206,
+    "Fuze Tea": 0.9507,
+    "Multifruit Juice": 0.0287
+  },
+  "3-0-1-0-1": {
+    "Fanta": 0.5661,
+    "Fuze Tea": 0.3434,
+    "Multifruit Juice": 0.0905
+  },
+  "3-0-1-0-2": {
+    "Fanta": 0.0329,
+    "Fuze Tea": 0.9213,
+    "Multifruit Juice": 0.0459
+  },
+  "3-0-1-0-3": {
+    "Fanta": 0.0333,
+    "Fuze Tea": 0.1763,
+    "Multifruit Juice": 0.7903
+  },
+  "3-0-1-1-0": {
+    "Fanta": 0.6455,
+    "Fuze Tea": 0.2805,
+    "Multifruit Juice": 0.0739
+  },
+  "3-0-1-1-1": {
+    "Fanta": 0.9815,
+    "Fuze Tea": 0.0056,
+    "Multifruit Juice": 0.0129
+  },
+  "3-0-1-1-2": {
+    "Fanta": 0.7256,
+    "Fuze Tea": 0.1913,
+    "Multifruit Juice": 0.0831
+  },
+  "3-0-1-1-3": {
+    "Fanta": 0.3336,
+    "Fuze Tea": 0.0166,
+    "Multifruit Juice": 0.6498
+  },
+  "3-0-1-2-0": {
+    "Fanta": 0.0175,
+    "Fuze Tea": 0.958,
+    "Multifruit Juice": 0.0245
+  },
+  "3-0-1-2-1": {
+    "Fanta": 0.5329,
+    "Fuze Tea": 0.3819,
+    "Multifruit Juice": 0.0852
+  },
+  "3-0-1-2-2": {
+    "Fanta": 0.0282,
+    "Fuze Tea": 0.9325,
+    "Multifruit Juice": 0.0393
+  },
+  "3-0-1-2-3": {
+    "Fanta": 0.0323,
+    "Fuze Tea": 0.2019,
+    "Multifruit Juice": 0.7658
+  },
+  "3-0-1-3-0": {
+    "Fanta": 0.0379,
+    "Fuze Tea": 0.2007,
+    "Multifruit Juice": 0.7614
+  },
+  "3-0-1-3-1": {
+    "Fanta": 0.2967,
+    "Fuze Tea": 0.0206,
+    "Multifruit Juice": 0.6827
+  },
+  "3-0-1-3-2": {
+    "Fanta": 0.0412,
+    "Fuze Tea": 0.1322,
+    "Multifruit Juice": 0.8267
+  },
+  "3-0-1-3-3": {
+    "Fanta": 0.0029,
+    "Fuze Tea": 0.0018,
+    "Multifruit Juice": 0.9953
+  },
+  "3-0-2-0-0": {
+    "Fanta": 0.0486,
+    "Fuze Tea": 0.3592,
+    "Multifruit Juice": 0.5922
+  },
+  "3-0-2-0-1": {
+    "Fanta": 0.4012,
+    "Fuze Tea": 0.0389,
+    "Multifruit Juice": 0.5599
+  },
+  "3-0-2-0-2": {
+    "Fanta": 0.0566,
+    "Fuze Tea": 0.2537,
+    "Multifruit Juice": 0.6897
+  },
+  "3-0-2-0-3": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0041,
+    "Multifruit Juice": 0.9912
+  },
+  "3-0-2-1-0": {
+    "Fanta": 0.4832,
+    "Fuze Tea": 0.0336,
+    "Multifruit Juice": 0.4832
+  },
+  "3-0-2-1-1": {
+    "Fanta": 0.8965,
+    "Fuze Tea": 0.0008,
+    "Multifruit Juice": 0.1027
+  },
+  "3-0-2-1-2": {
+    "Fanta": 0.4897,
+    "Fuze Tea": 0.0206,
+    "Multifruit Juice": 0.4897
+  },
+  "3-0-2-1-3": {
+    "Fanta": 0.0555,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.944
+  },
+  "3-0-2-2-0": {
+    "Fanta": 0.0456,
+    "Fuze Tea": 0.3984,
+    "Multifruit Juice": 0.556
+  },
+  "3-0-2-2-1": {
+    "Fanta": 0.3984,
+    "Fuze Tea": 0.0456,
+    "Multifruit Juice": 0.556
+  },
+  "3-0-2-2-2": {
+    "Fanta": 0.0541,
+    "Fuze Tea": 0.2865,
+    "Multifruit Juice": 0.6593
+  },
+  "3-0-2-2-3": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0048,
+    "Multifruit Juice": 0.9904
+  },
+  "3-0-2-3-0": {
+    "Fanta": 0.0056,
+    "Fuze Tea": 0.0048,
+    "Multifruit Juice": 0.9896
+  },
+  "3-0-2-3-1": {
+    "Fanta": 0.0474,
+    "Fuze Tea": 0.0005,
+    "Multifruit Juice": 0.9521
+  },
+  "3-0-2-3-2": {
+    "Fanta": 0.0057,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.9914
+  },
+  "3-0-2-3-3": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9996
+  },
+  "3-0-3-0-0": {
+    "Fanta": 0.0351,
+    "Fuze Tea": 0.2595,
+    "Multifruit Juice": 0.7054
+  },
+  "3-0-3-0-1": {
+    "Fanta": 0.2943,
+    "Fuze Tea": 0.0285,
+    "Multifruit Juice": 0.6772
+  },
+  "3-0-3-0-2": {
+    "Fanta": 0.0391,
+    "Fuze Tea": 0.1753,
+    "Multifruit Juice": 0.7856
+  },
+  "3-0-3-0-3": {
+    "Fanta": 0.0029,
+    "Fuze Tea": 0.0025,
+    "Multifruit Juice": 0.9946
+  },
+  "3-0-3-1-0": {
+    "Fanta": 0.3679,
+    "Fuze Tea": 0.0256,
+    "Multifruit Juice": 0.6065
+  },
+  "3-0-3-1-1": {
+    "Fanta": 0.8405,
+    "Fuze Tea": 0.0008,
+    "Multifruit Juice": 0.1587
+  },
+  "3-0-3-1-2": {
+    "Fanta": 0.3716,
+    "Fuze Tea": 0.0157,
+    "Multifruit Juice": 0.6127
+  },
+  "3-0-3-1-3": {
+    "Fanta": 0.0344,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9653
+  },
+  "3-0-3-2-0": {
+    "Fanta": 0.0335,
+    "Fuze Tea": 0.2928,
+    "Multifruit Juice": 0.6737
+  },
+  "3-0-3-2-1": {
+    "Fanta": 0.2928,
+    "Fuze Tea": 0.0335,
+    "Multifruit Juice": 0.6737
+  },
+  "3-0-3-2-2": {
+    "Fanta": 0.0379,
+    "Fuze Tea": 0.2007,
+    "Multifruit Juice": 0.7614
+  },
+  "3-0-3-2-3": {
+    "Fanta": 0.0029,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.9942
+  },
+  "3-0-3-3-0": {
+    "Fanta": 0.0034,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.9937
+  },
+  "3-0-3-3-1": {
+    "Fanta": 0.0293,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9704
+  },
+  "3-0-3-3-2": {
+    "Fanta": 0.0034,
+    "Fuze Tea": 0.0018,
+    "Multifruit Juice": 0.9948
+  },
+  "3-0-3-3-3": {
+    "Fanta": 0.0002,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9998
+  },
+  "3-1-0-0-0": {
+    "Fanta": 0.0394,
+    "Fuze Tea": 0.291,
+    "Multifruit Juice": 0.6696
+  },
+  "3-1-0-0-1": {
+    "Fanta": 0.3284,
+    "Fuze Tea": 0.0318,
+    "Multifruit Juice": 0.6397
+  },
+  "3-1-0-0-2": {
+    "Fanta": 0.0445,
+    "Fuze Tea": 0.1993,
+    "Multifruit Juice": 0.7562
+  },
+  "3-1-0-0-3": {
+    "Fanta": 0.0034,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.9937
+  },
+  "3-1-0-1-0": {
+    "Fanta": 0.4057,
+    "Fuze Tea": 0.0282,
+    "Multifruit Juice": 0.5661
+  },
+  "3-1-0-1-1": {
+    "Fanta": 0.8615,
+    "Fuze Tea": 0.0008,
+    "Multifruit Juice": 0.1377
+  },
+  "3-1-0-1-2": {
+    "Fanta": 0.4102,
+    "Fuze Tea": 0.0173,
+    "Multifruit Juice": 0.5725
+  },
+  "3-1-0-1-3": {
+    "Fanta": 0.0404,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9593
+  },
+  "3-1-0-2-0": {
+    "Fanta": 0.0374,
+    "Fuze Tea": 0.3266,
+    "Multifruit Juice": 0.636
+  },
+  "3-1-0-2-1": {
+    "Fanta": 0.3266,
+    "Fuze Tea": 0.0374,
+    "Multifruit Juice": 0.636
+  },
+  "3-1-0-2-2": {
+    "Fanta": 0.0429,
+    "Fuze Tea": 0.2273,
+    "Multifruit Juice": 0.7298
+  },
+  "3-1-0-2-3": {
+    "Fanta": 0.0034,
+    "Fuze Tea": 0.0034,
+    "Multifruit Juice": 0.9931
+  },
+  "3-1-0-3-0": {
+    "Fanta": 0.0041,
+    "Fuze Tea": 0.0034,
+    "Multifruit Juice": 0.9925
+  },
+  "3-1-0-3-1": {
+    "Fanta": 0.0344,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.9652
+  },
+  "3-1-0-3-2": {
+    "Fanta": 0.0041,
+    "Fuze Tea": 0.0021,
+    "Multifruit Juice": 0.9939
+  },
+  "3-1-0-3-3": {
+    "Fanta": 0.0002,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9997
+  },
+  "3-1-1-0-0": {
+    "Fanta": 0.0015,
+    "Fuze Tea": 0.7299,
+    "Multifruit Juice": 0.2685
+  },
+  "3-1-1-0-1": {
+    "Fanta": 0.0366,
+    "Fuze Tea": 0.2288,
+    "Multifruit Juice": 0.7347
+  },
+  "3-1-1-0-2": {
+    "Fanta": 0.0021,
+    "Fuze Tea": 0.6211,
+    "Multifruit Juice": 0.3767
+  },
+  "3-1-1-0-3": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.018,
+    "Multifruit Juice": 0.9817
+  },
+  "3-1-1-1-0": {
+    "Fanta": 0.0503,
+    "Fuze Tea": 0.2255,
+    "Multifruit Juice": 0.7242
+  },
+  "3-1-1-1-1": {
+    "Fanta": 0.3693,
+    "Fuze Tea": 0.0217,
+    "Multifruit Juice": 0.6089
+  },
+  "3-1-1-1-2": {
+    "Fanta": 0.0552,
+    "Fuze Tea": 0.1501,
+    "Multifruit Juice": 0.7947
+  },
+  "3-1-1-1-3": {
+    "Fanta": 0.0041,
+    "Fuze Tea": 0.0021,
+    "Multifruit Juice": 0.9939
+  },
+  "3-1-1-2-0": {
+    "Fanta": 0.0014,
+    "Fuze Tea": 0.7615,
+    "Multifruit Juice": 0.2371
+  },
+  "3-1-1-2-1": {
+    "Fanta": 0.0351,
+    "Fuze Tea": 0.2595,
+    "Multifruit Juice": 0.7054
+  },
+  "3-1-1-2-2": {
+    "Fanta": 0.0019,
+    "Fuze Tea": 0.6595,
+    "Multifruit Juice": 0.3386
+  },
+  "3-1-1-2-3": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.0212,
+    "Multifruit Juice": 0.9785
+  },
+  "3-1-1-3-0": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.0212,
+    "Multifruit Juice": 0.9784
+  },
+  "3-1-1-3-1": {
+    "Fanta": 0.0034,
+    "Fuze Tea": 0.0025,
+    "Multifruit Juice": 0.9941
+  },
+  "3-1-1-3-2": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.0129,
+    "Multifruit Juice": 0.9867
+  },
+  "3-1-1-3-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.9998
+  },
+  "3-1-2-0-0": {
+    "Fanta": 0.0006,
+    "Fuze Tea": 0.0474,
+    "Multifruit Juice": 0.952
+  },
+  "3-1-2-0-1": {
+    "Fanta": 0.0056,
+    "Fuze Tea": 0.0056,
+    "Multifruit Juice": 0.9887
+  },
+  "3-1-2-0-2": {
+    "Fanta": 0.0006,
+    "Fuze Tea": 0.0293,
+    "Multifruit Juice": 0.9701
+  },
+  "3-1-2-0-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9996
+  },
+  "3-1-2-1-0": {
+    "Fanta": 0.0079,
+    "Fuze Tea": 0.0056,
+    "Multifruit Juice": 0.9865
+  },
+  "3-1-2-1-1": {
+    "Fanta": 0.0649,
+    "Fuze Tea": 0.0006,
+    "Multifruit Juice": 0.9345
+  },
+  "3-1-2-1-2": {
+    "Fanta": 0.0079,
+    "Fuze Tea": 0.0034,
+    "Multifruit Juice": 0.9887
+  },
+  "3-1-2-1-3": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9995
+  },
+  "3-1-2-2-0": {
+    "Fanta": 0.0006,
+    "Fuze Tea": 0.0555,
+    "Multifruit Juice": 0.9439
+  },
+  "3-1-2-2-1": {
+    "Fanta": 0.0056,
+    "Fuze Tea": 0.0067,
+    "Multifruit Juice": 0.9877
+  },
+  "3-1-2-2-2": {
+    "Fanta": 0.0006,
+    "Fuze Tea": 0.0344,
+    "Multifruit Juice": 0.9649
+  },
+  "3-1-2-2-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.9996
+  },
+  "3-1-2-3-0": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.9996
+  },
+  "3-1-2-3-1": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9996
+  },
+  "3-1-2-3-2": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0002,
+    "Multifruit Juice": 0.9997
+  },
+  "3-1-2-3-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 1.0
+  },
+  "3-1-3-0-0": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.0293,
+    "Multifruit Juice": 0.9703
+  },
+  "3-1-3-0-1": {
+    "Fanta": 0.0034,
+    "Fuze Tea": 0.0034,
+    "Multifruit Juice": 0.9931
+  },
+  "3-1-3-0-2": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.018,
+    "Multifruit Juice": 0.9816
+  },
+  "3-1-3-0-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0002,
+    "Multifruit Juice": 0.9998
+  },
+  "3-1-3-1-0": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0034,
+    "Multifruit Juice": 0.9918
+  },
+  "3-1-3-1-1": {
+    "Fanta": 0.0404,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.9592
+  },
+  "3-1-3-1-2": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0021,
+    "Multifruit Juice": 0.9931
+  },
+  "3-1-3-1-3": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9997
+  },
+  "3-1-3-2-0": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.0344,
+    "Multifruit Juice": 0.9652
+  },
+  "3-1-3-2-1": {
+    "Fanta": 0.0034,
+    "Fuze Tea": 0.0041,
+    "Multifruit Juice": 0.9925
+  },
+  "3-1-3-2-2": {
+    "Fanta": 0.0004,
+    "Fuze Tea": 0.0212,
+    "Multifruit Juice": 0.9784
+  },
+  "3-1-3-2-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0002,
+    "Multifruit Juice": 0.9997
+  },
+  "3-1-3-3-0": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0002,
+    "Multifruit Juice": 0.9997
+  },
+  "3-1-3-3-1": {
+    "Fanta": 0.0002,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9997
+  },
+  "3-1-3-3-2": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.9998
+  },
+  "3-1-3-3-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 1.0
+  },
+  "3-2-0-0-0": {
+    "Fanta": 0.0206,
+    "Fuze Tea": 0.9507,
+    "Multifruit Juice": 0.0287
+  },
+  "3-2-0-0-1": {
+    "Fanta": 0.5661,
+    "Fuze Tea": 0.3434,
+    "Multifruit Juice": 0.0905
+  },
+  "3-2-0-0-2": {
+    "Fanta": 0.0329,
+    "Fuze Tea": 0.9213,
+    "Multifruit Juice": 0.0459
+  },
+  "3-2-0-0-3": {
+    "Fanta": 0.0333,
+    "Fuze Tea": 0.1763,
+    "Multifruit Juice": 0.7903
+  },
+  "3-2-0-1-0": {
+    "Fanta": 0.6455,
+    "Fuze Tea": 0.2805,
+    "Multifruit Juice": 0.0739
+  },
+  "3-2-0-1-1": {
+    "Fanta": 0.9815,
+    "Fuze Tea": 0.0056,
+    "Multifruit Juice": 0.0129
+  },
+  "3-2-0-1-2": {
+    "Fanta": 0.7256,
+    "Fuze Tea": 0.1913,
+    "Multifruit Juice": 0.0831
+  },
+  "3-2-0-1-3": {
+    "Fanta": 0.3336,
+    "Fuze Tea": 0.0166,
+    "Multifruit Juice": 0.6498
+  },
+  "3-2-0-2-0": {
+    "Fanta": 0.0175,
+    "Fuze Tea": 0.958,
+    "Multifruit Juice": 0.0245
+  },
+  "3-2-0-2-1": {
+    "Fanta": 0.5329,
+    "Fuze Tea": 0.3819,
+    "Multifruit Juice": 0.0852
+  },
+  "3-2-0-2-2": {
+    "Fanta": 0.0282,
+    "Fuze Tea": 0.9325,
+    "Multifruit Juice": 0.0393
+  },
+  "3-2-0-2-3": {
+    "Fanta": 0.0323,
+    "Fuze Tea": 0.2019,
+    "Multifruit Juice": 0.7658
+  },
+  "3-2-0-3-0": {
+    "Fanta": 0.0379,
+    "Fuze Tea": 0.2007,
+    "Multifruit Juice": 0.7614
+  },
+  "3-2-0-3-1": {
+    "Fanta": 0.2967,
+    "Fuze Tea": 0.0206,
+    "Multifruit Juice": 0.6827
+  },
+  "3-2-0-3-2": {
+    "Fanta": 0.0412,
+    "Fuze Tea": 0.1322,
+    "Multifruit Juice": 0.8267
+  },
+  "3-2-0-3-3": {
+    "Fanta": 0.0029,
+    "Fuze Tea": 0.0018,
+    "Multifruit Juice": 0.9953
+  },
+  "3-2-1-0-0": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.9949,
+    "Multifruit Juice": 0.0048
+  },
+  "3-2-1-0-1": {
+    "Fanta": 0.0239,
+    "Fuze Tea": 0.9366,
+    "Multifruit Juice": 0.0395
+  },
+  "3-2-1-0-2": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.9916,
+    "Multifruit Juice": 0.0079
+  },
+  "3-2-1-0-3": {
+    "Fanta": 0.0017,
+    "Fuze Tea": 0.5816,
+    "Multifruit Juice": 0.4167
+  },
+  "3-2-1-1-0": {
+    "Fanta": 0.0331,
+    "Fuze Tea": 0.9278,
+    "Multifruit Juice": 0.0391
+  },
+  "3-2-1-1-1": {
+    "Fanta": 0.6652,
+    "Fuze Tea": 0.2447,
+    "Multifruit Juice": 0.09
+  },
+  "3-2-1-1-2": {
+    "Fanta": 0.0521,
+    "Fuze Tea": 0.8863,
+    "Multifruit Juice": 0.0616
+  },
+  "3-2-1-1-3": {
+    "Fanta": 0.0412,
+    "Fuze Tea": 0.1322,
+    "Multifruit Juice": 0.8267
+  },
+  "3-2-1-2-0": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.9956,
+    "Multifruit Juice": 0.0041
+  },
+  "3-2-1-2-1": {
+    "Fanta": 0.0205,
+    "Fuze Tea": 0.9458,
+    "Multifruit Juice": 0.0337
+  },
+  "3-2-1-2-2": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.9928,
+    "Multifruit Juice": 0.0067
+  },
+  "3-2-1-2-3": {
+    "Fanta": 0.0015,
+    "Fuze Tea": 0.6215,
+    "Multifruit Juice": 0.377
+  },
+  "3-2-1-3-0": {
+    "Fanta": 0.0018,
+    "Fuze Tea": 0.6213,
+    "Multifruit Juice": 0.3769
+  },
+  "3-2-1-3-1": {
+    "Fanta": 0.0342,
+    "Fuze Tea": 0.1534,
+    "Multifruit Juice": 0.8123
+  },
+  "3-2-1-3-2": {
+    "Fanta": 0.0024,
+    "Fuze Tea": 0.4988,
+    "Multifruit Juice": 0.4988
+  },
+  "3-2-1-3-3": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.011,
+    "Multifruit Juice": 0.9887
+  },
+  "3-2-2-0-0": {
+    "Fanta": 0.0017,
+    "Fuze Tea": 0.7901,
+    "Multifruit Juice": 0.2083
+  },
+  "3-2-2-0-1": {
+    "Fanta": 0.0462,
+    "Fuze Tea": 0.2889,
+    "Multifruit Juice": 0.6649
+  },
+  "3-2-2-0-2": {
+    "Fanta": 0.0024,
+    "Fuze Tea": 0.6954,
+    "Multifruit Juice": 0.3022
+  },
+  "3-2-2-0-3": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.0249,
+    "Multifruit Juice": 0.9746
+  },
+  "3-2-2-1-0": {
+    "Fanta": 0.0633,
+    "Fuze Tea": 0.2838,
+    "Multifruit Juice": 0.6529
+  },
+  "3-2-2-1-1": {
+    "Fanta": 0.4464,
+    "Fuze Tea": 0.0263,
+    "Multifruit Juice": 0.5274
+  },
+  "3-2-2-1-2": {
+    "Fanta": 0.0713,
+    "Fuze Tea": 0.1937,
+    "Multifruit Juice": 0.735
+  },
+  "3-2-2-1-3": {
+    "Fanta": 0.0057,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.9914
+  },
+  "3-2-2-2-0": {
+    "Fanta": 0.0014,
+    "Fuze Tea": 0.8164,
+    "Multifruit Juice": 0.1822
+  },
+  "3-2-2-2-1": {
+    "Fanta": 0.0439,
+    "Fuze Tea": 0.3244,
+    "Multifruit Juice": 0.6318
+  },
+  "3-2-2-2-2": {
+    "Fanta": 0.0021,
+    "Fuze Tea": 0.7295,
+    "Multifruit Juice": 0.2684
+  },
+  "3-2-2-2-3": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.0293,
+    "Multifruit Juice": 0.9702
+  },
+  "3-2-2-3-0": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.0293,
+    "Multifruit Juice": 0.9702
+  },
+  "3-2-2-3-1": {
+    "Fanta": 0.0048,
+    "Fuze Tea": 0.0034,
+    "Multifruit Juice": 0.9918
+  },
+  "3-2-2-3-2": {
+    "Fanta": 0.0005,
+    "Fuze Tea": 0.018,
+    "Multifruit Juice": 0.9815
+  },
+  "3-2-2-3-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0002,
+    "Multifruit Juice": 0.9998
+  },
+  "3-2-3-0-0": {
+    "Fanta": 0.0015,
+    "Fuze Tea": 0.696,
+    "Multifruit Juice": 0.3025
+  },
+  "3-2-3-0-1": {
+    "Fanta": 0.0323,
+    "Fuze Tea": 0.2019,
+    "Multifruit Juice": 0.7658
+  },
+  "3-2-3-0-2": {
+    "Fanta": 0.002,
+    "Fuze Tea": 0.5814,
+    "Multifruit Juice": 0.4166
+  },
+  "3-2-3-0-3": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.0153,
+    "Multifruit Juice": 0.9845
+  },
+  "3-2-3-1-0": {
+    "Fanta": 0.0445,
+    "Fuze Tea": 0.1993,
+    "Multifruit Juice": 0.7562
+  },
+  "3-2-3-1-1": {
+    "Fanta": 0.3326,
+    "Fuze Tea": 0.0196,
+    "Multifruit Juice": 0.6478
+  },
+  "3-2-3-1-2": {
+    "Fanta": 0.0483,
+    "Fuze Tea": 0.1312,
+    "Multifruit Juice": 0.8205
+  },
+  "3-2-3-1-3": {
+    "Fanta": 0.0034,
+    "Fuze Tea": 0.0018,
+    "Multifruit Juice": 0.9948
+  },
+  "3-2-3-2-0": {
+    "Fanta": 0.0013,
+    "Fuze Tea": 0.7301,
+    "Multifruit Juice": 0.2686
+  },
+  "3-2-3-2-1": {
+    "Fanta": 0.0311,
+    "Fuze Tea": 0.2301,
+    "Multifruit Juice": 0.7388
+  },
+  "3-2-3-2-2": {
+    "Fanta": 0.0018,
+    "Fuze Tea": 0.6213,
+    "Multifruit Juice": 0.3769
+  },
+  "3-2-3-2-3": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.018,
+    "Multifruit Juice": 0.9817
+  },
+  "3-2-3-3-0": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.018,
+    "Multifruit Juice": 0.9817
+  },
+  "3-2-3-3-1": {
+    "Fanta": 0.0029,
+    "Fuze Tea": 0.0021,
+    "Multifruit Juice": 0.995
+  },
+  "3-2-3-3-2": {
+    "Fanta": 0.0003,
+    "Fuze Tea": 0.011,
+    "Multifruit Juice": 0.9887
+  },
+  "3-2-3-3-3": {
+    "Fanta": 0.0,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.9999
+  },
+  "3-3-0-0-0": {
+    "Fanta": 0.4569,
+    "Fuze Tea": 0.4569,
+    "Multifruit Juice": 0.0863
+  },
+  "3-3-0-0-1": {
+    "Fanta": 0.9664,
+    "Fuze Tea": 0.0127,
+    "Multifruit Juice": 0.0209
+  },
+  "3-3-0-0-2": {
+    "Fanta": 0.557,
+    "Fuze Tea": 0.3378,
+    "Multifruit Juice": 0.1052
+  },
+  "3-3-0-0-3": {
+    "Fanta": 0.2312,
+    "Fuze Tea": 0.0265,
+    "Multifruit Juice": 0.7423
+  },
+  "3-3-0-1-0": {
+    "Fanta": 0.9757,
+    "Fuze Tea": 0.0092,
+    "Multifruit Juice": 0.0151
+  },
+  "3-3-0-1-1": {
+    "Fanta": 0.9981,
+    "Fuze Tea": 0.0001,
+    "Multifruit Juice": 0.0018
+  },
+  "3-3-0-1-2": {
+    "Fanta": 0.9792,
+    "Fuze Tea": 0.0056,
+    "Multifruit Juice": 0.0152
+  },
+  "3-3-0-1-3": {
+    "Fanta": 0.7907,
+    "Fuze Tea": 0.0009,
+    "Multifruit Juice": 0.2084
+  },
+  "3-3-0-2-0": {
+    "Fanta": 0.4219,
+    "Fuze Tea": 0.4984,
+    "Multifruit Juice": 0.0797
+  },
+  "3-3-0-2-1": {
+    "Fanta": 0.9642,
+    "Fuze Tea": 0.0149,
+    "Multifruit Juice": 0.0209
+  },
+  "3-3-0-2-2": {
+    "Fanta": 0.5248,
+    "Fuze Tea": 0.3761,
+    "Multifruit Juice": 0.0991
+  },
+  "3-3-0-2-3": {
+    "Fanta": 0.2301,
+    "Fuze Tea": 0.0311,
+    "Multifruit Juice": 0.7388
+  },
+  "3-3-0-3-0": {
+    "Fanta": 0.2609,
+    "Fuze Tea": 0.0299,
+    "Multifruit Juice": 0.7092
+  },
+  "3-3-0-3-1": {
+    "Fanta": 0.7617,
+    "Fuze Tea": 0.0011,
+    "Multifruit Juice": 0.2372
+  },
+  "3-3-0-3-2": {
+    "Fanta": 0.264,
+    "Fuze Tea": 0.0183,
+    "Multifruit Juice": 0.7176
+  },
+  "3-3-0-3-3": {
+    "Fanta": 0.0212,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9785
+  },
+  "3-3-1-0-0": {
+    "Fanta": 0.0148,
+    "Fuze Tea": 0.9563,
+    "Multifruit Juice": 0.0289
+  },
+  "3-3-1-0-1": {
+    "Fanta": 0.4832,
+    "Fuze Tea": 0.409,
+    "Multifruit Juice": 0.1078
+  },
+  "3-3-1-0-2": {
+    "Fanta": 0.0238,
+    "Fuze Tea": 0.9299,
+    "Multifruit Juice": 0.0463
+  },
+  "3-3-1-0-3": {
+    "Fanta": 0.0241,
+    "Fuze Tea": 0.178,
+    "Multifruit Juice": 0.7979
+  },
+  "3-3-1-1-0": {
+    "Fanta": 0.5661,
+    "Fuze Tea": 0.3434,
+    "Multifruit Juice": 0.0905
+  },
+  "3-3-1-1-1": {
+    "Fanta": 0.9744,
+    "Fuze Tea": 0.0078,
+    "Multifruit Juice": 0.0178
+  },
+  "3-3-1-1-2": {
+    "Fanta": 0.6546,
+    "Fuze Tea": 0.2408,
+    "Multifruit Juice": 0.1046
+  },
+  "3-3-1-1-3": {
+    "Fanta": 0.264,
+    "Fuze Tea": 0.0183,
+    "Multifruit Juice": 0.7176
+  },
+  "3-3-1-2-0": {
+    "Fanta": 0.0126,
+    "Fuze Tea": 0.9628,
+    "Multifruit Juice": 0.0246
+  },
+  "3-3-1-2-1": {
+    "Fanta": 0.4498,
+    "Fuze Tea": 0.4498,
+    "Multifruit Juice": 0.1004
+  },
+  "3-3-1-2-2": {
+    "Fanta": 0.0203,
+    "Fuze Tea": 0.94,
+    "Multifruit Juice": 0.0396
+  },
+  "3-3-1-2-3": {
+    "Fanta": 0.0233,
+    "Fuze Tea": 0.2037,
+    "Multifruit Juice": 0.7729
+  },
+  "3-3-1-3-0": {
+    "Fanta": 0.0275,
+    "Fuze Tea": 0.2029,
+    "Multifruit Juice": 0.7697
+  },
+  "3-3-1-3-1": {
+    "Fanta": 0.2321,
+    "Fuze Tea": 0.0225,
+    "Multifruit Juice": 0.7454
+  },
+  "3-3-1-3-2": {
+    "Fanta": 0.0298,
+    "Fuze Tea": 0.1337,
+    "Multifruit Juice": 0.8364
+  },
+  "3-3-1-3-3": {
+    "Fanta": 0.0021,
+    "Fuze Tea": 0.0018,
+    "Multifruit Juice": 0.9961
+  },
+  "3-3-2-0-0": {
+    "Fanta": 0.0353,
+    "Fuze Tea": 0.3642,
+    "Multifruit Juice": 0.6005
+  },
+  "3-3-2-0-1": {
+    "Fanta": 0.3244,
+    "Fuze Tea": 0.0439,
+    "Multifruit Juice": 0.6318
+  },
+  "3-3-2-0-2": {
+    "Fanta": 0.0412,
+    "Fuze Tea": 0.2579,
+    "Multifruit Juice": 0.7009
+  },
+  "3-3-2-0-3": {
+    "Fanta": 0.0034,
+    "Fuze Tea": 0.0041,
+    "Multifruit Juice": 0.9925
+  },
+  "3-3-2-1-0": {
+    "Fanta": 0.4012,
+    "Fuze Tea": 0.0389,
+    "Multifruit Juice": 0.5599
+  },
+  "3-3-2-1-1": {
+    "Fanta": 0.8612,
+    "Fuze Tea": 0.0011,
+    "Multifruit Juice": 0.1377
+  },
+  "3-3-2-1-2": {
+    "Fanta": 0.4074,
+    "Fuze Tea": 0.024,
+    "Multifruit Juice": 0.5686
+  },
+  "3-3-2-1-3": {
+    "Fanta": 0.0404,
+    "Fuze Tea": 0.0004,
+    "Multifruit Juice": 0.9591
+  },
+  "3-3-2-2-0": {
+    "Fanta": 0.0331,
+    "Fuze Tea": 0.4036,
+    "Multifruit Juice": 0.5633
+  },
+  "3-3-2-2-1": {
+    "Fanta": 0.3218,
+    "Fuze Tea": 0.0514,
+    "Multifruit Juice": 0.6268
+  },
+  "3-3-2-2-2": {
+    "Fanta": 0.0394,
+    "Fuze Tea": 0.291,
+    "Multifruit Juice": 0.6696
+  },
+  "3-3-2-2-3": {
+    "Fanta": 0.0034,
+    "Fuze Tea": 0.0048,
+    "Multifruit Juice": 0.9918
+  },
+  "3-3-2-3-0": {
+    "Fanta": 0.0041,
+    "Fuze Tea": 0.0048,
+    "Multifruit Juice": 0.9912
+  },
+  "3-3-2-3-1": {
+    "Fanta": 0.0344,
+    "Fuze Tea": 0.0005,
+    "Multifruit Juice": 0.965
+  },
+  "3-3-2-3-2": {
+    "Fanta": 0.0041,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.993
+  },
+  "3-3-2-3-3": {
+    "Fanta": 0.0002,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9997
+  },
+  "3-3-3-0-0": {
+    "Fanta": 0.0254,
+    "Fuze Tea": 0.2621,
+    "Multifruit Juice": 0.7125
+  },
+  "3-3-3-0-1": {
+    "Fanta": 0.2301,
+    "Fuze Tea": 0.0311,
+    "Multifruit Juice": 0.7388
+  },
+  "3-3-3-0-2": {
+    "Fanta": 0.0283,
+    "Fuze Tea": 0.1773,
+    "Multifruit Juice": 0.7944
+  },
+  "3-3-3-0-3": {
+    "Fanta": 0.0021,
+    "Fuze Tea": 0.0025,
+    "Multifruit Juice": 0.9954
+  },
+  "3-3-3-1-0": {
+    "Fanta": 0.2943,
+    "Fuze Tea": 0.0285,
+    "Multifruit Juice": 0.6772
+  },
+  "3-3-3-1-1": {
+    "Fanta": 0.7906,
+    "Fuze Tea": 0.001,
+    "Multifruit Juice": 0.2084
+  },
+  "3-3-3-1-2": {
+    "Fanta": 0.2976,
+    "Fuze Tea": 0.0175,
+    "Multifruit Juice": 0.6849
+  },
+  "3-3-3-1-3": {
+    "Fanta": 0.0249,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9748
+  },
+  "3-3-3-2-0": {
+    "Fanta": 0.0243,
+    "Fuze Tea": 0.2956,
+    "Multifruit Juice": 0.6801
+  },
+  "3-3-3-2-1": {
+    "Fanta": 0.2288,
+    "Fuze Tea": 0.0366,
+    "Multifruit Juice": 0.7347
+  },
+  "3-3-3-2-2": {
+    "Fanta": 0.0275,
+    "Fuze Tea": 0.2029,
+    "Multifruit Juice": 0.7697
+  },
+  "3-3-3-2-3": {
+    "Fanta": 0.0021,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.995
+  },
+  "3-3-3-3-0": {
+    "Fanta": 0.0025,
+    "Fuze Tea": 0.0029,
+    "Multifruit Juice": 0.9946
+  },
+  "3-3-3-3-1": {
+    "Fanta": 0.0212,
+    "Fuze Tea": 0.0003,
+    "Multifruit Juice": 0.9785
+  },
+  "3-3-3-3-2": {
+    "Fanta": 0.0025,
+    "Fuze Tea": 0.0018,
+    "Multifruit Juice": 0.9958
+  },
+  "3-3-3-3-3": {
+    "Fanta": 0.0001,
+    "Fuze Tea": 0.0,
+    "Multifruit Juice": 0.9998
+  }
+}
